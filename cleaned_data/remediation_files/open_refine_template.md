@@ -22,8 +22,6 @@
 {{if(isBlank(cells['dcterms.creator 4'].value), '', '<name><namePart>' + cells['dcterms.creator 4'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>')}}
 {{if(isBlank(cells['dcterms.ccontributor'].value), '', '<name><namePart>' + cells['dcterms.ccontributor'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm></role></name>')}}
 {{if(isBlank(cells['dcterms.date'].value), '', '<originInfo><dateCreated>' + cells['dcterms.date'].value + '</dateCreated></originInfo>'))}}
-
-
 {{if(isBlank(cells['dcterms.subject 1'].value), '', '<subject><topic>' + cells['dcterms.subject 1'].value + '</topic></subject>')}}
 {{if(isBlank(cells['dcterms.subject 2'].value), '', '<subject><topic>' + cells['dcterms.subject 2'].value + '</topic></subject>')}}
 {{if(isBlank(cells['dcterms.subject 3'].value), '', '<subject><topic>' + cells['dcterms.subject 3'].value + '</topic></subject>')}}
@@ -86,7 +84,7 @@
 {{if(isBlank(cells['dcterms.source'].value), '', '<relatedItem displayLabel="Collection" type="host"><titleInfo><title>' + cells['dcterms.source'].value + '</title></titleInfo></relatedItem>')}}
 <recordInfo><recordContentSource>{{cells['dcterms.publisher'].value}}</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="{{cells['dcterms.rights.uri'].value}}">{{cells['dcterms.rights'].value}}</accessCondition>
-<accessCondition type="local rights statement">{{cells['dcterms.accessRights'].value}}</accessCondition>
+{{if(isBlank(cells['dcterms.accessRights'].value), '', '<accessCondition type="local rights statement">' + cells['dcterms.accessRights'].value + '</accessCondition>')}}
 </mods>
 ```
 
