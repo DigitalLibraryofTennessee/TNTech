@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG9_OldBox61_Folder12_004</identifier>
+   <titleInfo>
+      <title>Letter from John K. Folger to Everett Derryberry</title>
+   </titleInfo>
+   <abstract>Letter from John K. Folger, Executive Director of the Tennessee Higher Education Commission, to Tennessee Tech University President Everett Derryberry regarding the court order requiring Tennessee to create a state public higher education desegregation plan and the Commission's procedural steps to create a plan. Includes handwritten notes on the front and back of the letter by President Derryberry.</abstract>
+   <name>
+      <namePart>Folger, John K.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Tennessee Higher Education Commission</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>.
+Derryberry, William Everett, 1906-1991</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1968-10-03</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Universities and colleges--Law and legislation</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Higher Education Commission</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges--Administration</topic>
+   </subject>
+   <subject>
+      <topic>Discrimination in higher education</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University</topic>
+   </subject>
+   <subject>
+      <topic>Segregation</topic>
+   </subject>
+   <subject>
+      <topic>Segregation in higher education</topic>
+   </subject>
+   <subject>
+      <topic>Faculty integration</topic>
+   </subject>
+   <subject>
+      <topic>College teachers</topic>
+   </subject>
+   <subject>
+      <topic>Minority college teachers</topic>
+   </subject>
+   <subject>
+      <topic>African American college students</topic>
+   </subject>
+   <subject>
+      <topic>Minorities--Education (Higher)</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/io_468a9ae6-d62a-4034-b2f2-cb50d95c0f8b</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/io_468a9ae6-d62a-4034-b2f2-cb50d95c0f8b?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Records of the President</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <accessCondition type="local rights statement">This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</accessCondition>
+</mods>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">Acc2017_0025_001</identifier>
+   <titleInfo>
+      <title>Annette Draper scrapbook</title>
+   </titleInfo>
+   <abstract>Scrapbook created by Annette Draper ("My Memory Book", with designs and arrangement by Mabel Betsy Hill). It contains items dating from 1920 through 1924, documenting her time as a student at Tennessee Polytechnic Institute. The scrapbook includes autographs, newspaper clippings, photographs, event programs, and her diploma.</abstract>
+   <name>
+      <namePart>Draper, Annette, 1902-1992</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1920-1924</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>College students</topic>
+   </subject>
+   <subject>
+      <topic>Women college students</topic>
+   </subject>
+   <subject>
+      <topic>Young adults</topic>
+   </subject>
+   <subject>
+      <topic>Scrapbooks</topic>
+   </subject>
+   <subject>
+      <topic>Correspondence</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Polytechnic Institute</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University</topic>
+   </subject>
+   <subject>
+      <topic>Clippings (Books, newspapers, etc.)</topic>
+   </subject>
+   <subject>
+      <topic>Photographs</topic>
+   </subject>
+   <subject>
+      <topic>Programs (Publications)</topic>
+   </subject>
+   <subject>
+      <topic>Autographs</topic>
+   </subject>
+   <subject>
+      <topic>Alma mater songs</topic>
+   </subject>
+   <subject>
+      <topic>Cheers</topic>
+   </subject>
+   <subject>
+      <topic>Souvenirs (Keepsakes)</topic>
+   </subject>
+   <subject>
+      <topic>College students--Social life and customs</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/io_f480c39c-6b4f-4438-94bf-9de5391d3d6f</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/io_f480c39c-6b4f-4438-94bf-9de5391d3d6f?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Annette Draper papers</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

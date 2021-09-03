@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG9_20210630_001</identifier>
+   <titleInfo>
+      <title>Resolution of the State Board of Education</title>
+   </titleInfo>
+   <abstract>Copy of the Tennessee State Board of Education's five-year gradual desegregation plan for public higher education institutions submitted as a defense of a suit against Memphis State University. The gradual desegregation plan outlines that qualified Black students can enroll at higher education institutes with graduate programs for graduate work beginning in the 1955-1956 academic year, and that white students also would be admitted for graduate work at the only public higher education institution in the state for Black students: Tennessee Agricultural and Industrial State University. Black undergraduate students with senior class standing could transfer to a formerly segregated institution for the 1956-1957 academic year. Black students could transfer for their junior year beginning in fall 1957 and sophomore year in fall 1958. Finally, the plan outlined that new freshmen could begin enrolling in the 1959-1960 academic year.</abstract>
+   <name>
+      <namePart>Tennessee. State Board of Education</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1955</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Tennessee Technological University</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges--Administration</topic>
+   </subject>
+   <subject>
+      <topic>Segregation</topic>
+   </subject>
+   <subject>
+      <topic>Segregation in higher education</topic>
+   </subject>
+   <subject>
+      <topic>African American college students</topic>
+   </subject>
+   <subject>
+      <topic>Discrimination in higher education</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee. State Board of Education</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/io_9ed686a1-828b-4030-ac4e-222b9649854a</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/io_9ed686a1-828b-4030-ac4e-222b9649854a?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Records of the President</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <accessCondition type="local rights statement">This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</accessCondition>
+</mods>

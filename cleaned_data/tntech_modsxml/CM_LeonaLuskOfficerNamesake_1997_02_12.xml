@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">CM_LeonaLuskOfficerNamesake_1997_02_12</identifier>
+   <titleInfo>
+      <title>Tennessee Tech Honors First Black Graduate; Sparta's Leona Lusk Officer to Become Namesake</title>
+   </titleInfo>
+   <abstract>News release announcing a dedication ceremony for the Leona Lusk Officer Black Cultural Center. The release includes a biography of Officer and her children, a description of the decision to rename the Center, and a description of the Center.Â </abstract>
+   <name>
+      <namePart>Tennessee Technological University. Office of Communications and Marketing</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1997-02-12</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Officer, Leona Lusk, 1917-1976</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges--Alumni and alumnae</topic>
+   </subject>
+   <subject>
+      <topic>African American college students</topic>
+   </subject>
+   <subject>
+      <topic>African American women college students</topic>
+   </subject>
+   <subject>
+      <topic>College students</topic>
+   </subject>
+   <subject>
+      <topic>Dedication services</topic>
+   </subject>
+   <subject>
+      <topic>College integration</topic>
+   </subject>
+   <subject>
+      <topic>Segregation in higher education</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Sparta (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>White County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/io_4f1c3bac-d722-42f1-9058-47cd60e52525</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/io_4f1c3bac-d722-42f1-9058-47cd60e52525?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Office of Communications and Marketing records</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <accessCondition type="local rights statement">This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</accessCondition>
+</mods>

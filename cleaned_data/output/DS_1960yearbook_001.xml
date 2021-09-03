@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">DS_1960yearbook_001</identifier>
+   <titleInfo>
+      <title>The Trojan</title>
+   </titleInfo>
+   <abstract>Yearbook of Darwin High School, Darwin Junior High School, and Darwin Elementary School for the 1959-1960 academic year. The yearbook includes notes by the owner on the high school students' appearances. Includes pictures of the seniors' trip to Washington, D.C, and Monticello.</abstract>
+   <name>
+      <namePart>Darwin School (Cookeville, Tenn.)</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1960</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Darwin High School (Cookeville, Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Darwin Elementary School (Cookeville, Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Darwin School (Cookeville, Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>African American students</topic>
+   </subject>
+   <subject>
+      <topic>African American schools</topic>
+   </subject>
+   <subject>
+      <topic>African American school children</topic>
+   </subject>
+   <subject>
+      <topic>Segregation in education</topic>
+   </subject>
+   <subject>
+      <topic>African American teachers</topic>
+   </subject>
+   <subject>
+      <topic>School yearbooks</topic>
+   </subject>
+   <subject>
+      <topic>Student activities</topic>
+   </subject>
+   <subject>
+      <topic>Students</topic>
+   </subject>
+   <subject>
+      <topic>Schools</topic>
+   </subject>
+   <subject>
+      <topic>School children</topic>
+   </subject>
+   <subject>
+      <topic>Teachers</topic>
+   </subject>
+   <subject>
+      <topic>Rosenwald schools</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/io_cee664d7-f0e7-458c-a6bf-0696c068e22c</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/io_cee664d7-f0e7-458c-a6bf-0696c068e22c?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Darwin School collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <accessCondition type="local rights statement">This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</accessCondition>
+</mods>

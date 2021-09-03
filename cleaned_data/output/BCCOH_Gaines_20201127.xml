@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">BCCOH_Gaines_20201127</identifier>
+   <titleInfo>
+      <title>Interview with Wentford Gaines</title>
+   </titleInfo>
+   <abstract>Audio recording of an interview of Wentford Gaines by Jerone Dudley conducted over Zoom for the Black Cultural Center Oral History Project. The recording duration is 59 minutes, 55 seconds. Gaines was born on February 4, 1953. He attended Tennessee Tech in the spring quarter of 1973. The football coaches recruited Gaines to play football at Tech. Gaines and other Black student athletes were dismissed from the team for refusing to practice after Tennis Coach Larry Ware abandoned David Brents, a Black tennis player in Johnson City, Tennessee. Gaines describes growing up as a Black child in a single-parent household in Anderson, South Carolina; his time attending and playing football at Ferrum College in Virginia; being recruited to Tennessee Tech; the broken promises, racism, and isolation he faced at Tennessee Tech and in Cookeville; and his life after transferring from Tech. Gaines details going to the University of Cincinnati, his time playing in the National Football League (NFL), living in Texas and New Jersey, teaching and coaching in Jersey City, teaching during the COVID-19 pandemic, playing athletics in high school, his sons's athletic and academic experiences. Gaines describes the isolation of being Black in Cookeville, the lack of interaction between non-local Black students and the Black community in Cookeville, and how he only felt comfortable going out to one bar (likely John's Place) in the area and otherwise went to Nashville to socialize. Dudley makes comparisons between his experiences and Gaines's experiences in Cookeville. For a transcript of the interview, see item BCCOH_Gaines_20201127_transcript.</abstract>
+   <name>
+      <namePart>Dudley, Jerone L.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Gaines, Wentford E., 1953-</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>2020-11-27</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>African American college athletes</topic>
+   </subject>
+   <subject>
+      <topic>African American college students</topic>
+   </subject>
+   <subject>
+      <topic>African American educators</topic>
+   </subject>
+   <subject>
+      <topic>African American football players</topic>
+   </subject>
+   <subject>
+      <topic>African American men</topic>
+   </subject>
+   <subject>
+      <topic>African American professional athletes</topic>
+   </subject>
+   <subject>
+      <topic>African American teachers</topic>
+   </subject>
+   <subject>
+      <topic>African American young adults</topic>
+   </subject>
+   <subject>
+      <topic>African Americans</topic>
+   </subject>
+   <subject>
+      <topic>African Americans--Education (Higher)</topic>
+   </subject>
+   <subject>
+      <topic>African Americans--Segregation</topic>
+   </subject>
+   <subject>
+      <topic>Bonds, Jay</topic>
+   </subject>
+   <subject>
+      <topic>Brents, David</topic>
+   </subject>
+   <subject>
+      <topic>Career changes</topic>
+   </subject>
+   <subject>
+      <topic>Chicago Bears (Football team)</topic>
+   </subject>
+   <subject>
+      <topic>College athletes</topic>
+   </subject>
+   <subject>
+      <topic>College athletes--Recruiting</topic>
+   </subject>
+   <subject>
+      <topic>College students</topic>
+   </subject>
+   <subject>
+      <topic>College students--Recruiting</topic>
+   </subject>
+   <subject>
+      <topic>Educators</topic>
+   </subject>
+   <subject>
+      <topic>Ferrum College</topic>
+   </subject>
+   <subject>
+      <topic>Football</topic>
+   </subject>
+   <subject>
+      <topic>Football players</topic>
+   </subject>
+   <subject>
+      <topic>Hunter, Paul</topic>
+   </subject>
+   <subject>
+      <topic>Interviews</topic>
+   </subject>
+   <subject>
+      <topic>John's Place (Cookeville, Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Minority college students--Recruiting</topic>
+   </subject>
+   <subject>
+      <topic>National Football League</topic>
+   </subject>
+   <subject>
+      <topic>Occupations</topic>
+   </subject>
+   <subject>
+      <topic>Pittsburgh Steelers (Football team)</topic>
+   </subject>
+   <subject>
+      <topic>Professional athletes</topic>
+   </subject>
+   <subject>
+      <topic>Racism</topic>
+   </subject>
+   <subject>
+      <topic>Racism in sports</topic>
+   </subject>
+   <subject>
+      <topic>Teachers</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University Golden Eagles (Football team)</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges--Alumni and alumnae</topic>
+   </subject>
+   <subject>
+      <topic>University of Cincinnati</topic>
+   </subject>
+   <subject>
+      <topic>Urban League of Hudson County</topic>
+   </subject>
+   <subject>
+      <topic>Wade, Don</topic>
+   </subject>
+   <subject>
+      <topic>Ware, Larry</topic>
+   </subject>
+   <subject>
+      <topic>Young adults</topic>
+   </subject>
+   <subject>
+      <topic>Oral histories</topic>
+   </subject>
+   <subject>
+      <topic>Gaines, Wentford E., 1953-</topic>
+   </subject>
+   <subject>
+      <geographic>Anderson (S.C.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Chicago (Ill.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Cincinnati (Ohio)</geographic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Jersey City (N.J.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Knoxville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/io_8e2e62ec-70dd-4536-89f4-501dad818dc3/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/io_8e2e62ec-70dd-4536-89f4-501dad818dc3?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Black Cultural Center Oral History Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <accessCondition type="local rights statement">This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</accessCondition>
+</mods>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">PS_EC_CHL_1963_09_001</identifier>
+   <titleInfo>
+      <title>Cheerleading tryouts</title>
+   </titleInfo>
+   <abstract>Photograph of four young women wearing matching shorts, shirts, and tennis shoes lined up in a row in a gymnasium for tryouts for the Tennessee Polytechnic Institute cheer squad. The women are holding pompoms out and pointing their right legs forward.</abstract>
+   <name>
+      <namePart>Tennessee Technological University. Office of Communications and Marketing</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1963-09</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Tennessee Technological University Coed Cheer Team (Cheerleading team)</topic>
+   </subject>
+   <subject>
+      <topic>Cheerleading</topic>
+   </subject>
+   <subject>
+      <topic>College students</topic>
+   </subject>
+   <subject>
+      <topic>Young adults</topic>
+   </subject>
+   <subject>
+      <topic>College athletes</topic>
+   </subject>
+   <subject>
+      <topic>Cheerleaders</topic>
+   </subject>
+   <subject>
+      <topic>Women college students</topic>
+   </subject>
+   <subject>
+      <topic>Women college athletes</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/io_e12f50fa-65eb-4d73-be34-2b4d67cb7241</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/io_e12f50fa-65eb-4d73-be34-2b4d67cb7241?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Photo Services photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <accessCondition type="local rights statement">This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</accessCondition>
+</mods>

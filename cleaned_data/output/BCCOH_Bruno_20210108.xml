@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">BCCOH_Bruno_20210108</identifier>
+   <titleInfo>
+      <title>Interview with Laishka Bruno</title>
+   </titleInfo>
+   <abstract>Audio recording of an interview of Laishka Bruno by Aaron Stewart conducted over Zoom for the Black Cultural Center Oral History Project. The recording duration is 54 minutes, 16 seconds. Bruno studied mechanical engineering at Tennessee Tech University from 2008 to 2014, with a year and a half break for a co-op at General Electric. Bruno discusses her background growing up in a military family with Puerto Rican heritage and living in Fort Hood, Texas; Germany; and Tennessee. She describes what school was like for her growing up, why she decided to attend Tennessee Tech, why she picked her major, the challenges of being a Hispanic and woman student in engineering classes and at Tech, her favorite projects while at Tech and difficult classes, how she lived on and off campus during her time at Tech, and her experience with her co-op. She details her college extracurricular activities with the National Society of Black Engineers, American Society of Mechanical Engineers, Engineering Joint Council, the Multicultural Affairs peer mentoring program, Engineering a Future, E-Week, and Theta Tau. She follows that with a discussion of four Tech employees who influenced her: Dr. Robert Owens, Marc Burnett, Dr. Kristine Craven, and Dr. Elizabeth Ojo. Bruno describes her work with PepsiCo Frito-Lay and how the COVID-19 pandemic has changed her work environment. She follows by discussing how she used the Leona Lusk Officer Black Cultural Center (BCC) and the influence of the BCC on her. She describes the subtle racism she experienced in Cookeville and how she and her friends did not feel safe going out alone. Bruno details her career path after she graduated, her school and career accomplishments that she is most proud of, what her life is like, and some of her favorite and challenging memories from Tech. Bruno ends with advice for underrepresented students at Tech and offers mentorship assistance to students. Throughout the interview, Stewart compares his experience as a student and in Cookeville to Bruno's experience. For a transcript of the recording, see item BCCOH_Bruno_20210108_transcript.</abstract>
+   <name>
+      <namePart>Bruno, Laishka, 1990-</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Stewart, Aaron J.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>2021-01-08</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Interviews</topic>
+   </subject>
+   <subject>
+      <topic>Oral histories</topic>
+   </subject>
+   <subject>
+      <topic>Women college students</topic>
+   </subject>
+   <subject>
+      <topic>College students</topic>
+   </subject>
+   <subject>
+      <topic>Women adults</topic>
+   </subject>
+   <subject>
+      <topic>Young adults</topic>
+   </subject>
+   <subject>
+      <topic>Occupations</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges--Alumni and alumnae</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University. Office of Student Affairs. Office of Multicultural Affairs</topic>
+   </subject>
+   <subject>
+      <topic>Families of military personnel</topic>
+   </subject>
+   <subject>
+      <topic>Children of military personnel</topic>
+   </subject>
+   <subject>
+      <topic>Basketball</topic>
+   </subject>
+   <subject>
+      <topic>Women basketball players</topic>
+   </subject>
+   <subject>
+      <topic>College students--Social life and customs</topic>
+   </subject>
+   <subject>
+      <topic>Women engineers</topic>
+   </subject>
+   <subject>
+      <topic>Women in engineering</topic>
+   </subject>
+   <subject>
+      <topic>Engineering</topic>
+   </subject>
+   <subject>
+      <topic>Women engineering students</topic>
+   </subject>
+   <subject>
+      <topic>Engineering students</topic>
+   </subject>
+   <subject>
+      <topic>Women engineers--Employment</topic>
+   </subject>
+   <subject>
+      <topic>Engineers--Employment</topic>
+   </subject>
+   <subject>
+      <topic>Women engineers--Training of</topic>
+   </subject>
+   <subject>
+      <topic>Engineers--Training of</topic>
+   </subject>
+   <subject>
+      <topic>Women in engineering--Education (Higher)</topic>
+   </subject>
+   <subject>
+      <topic>Hispanic American engineers</topic>
+   </subject>
+   <subject>
+      <topic>Hispanics (LGBTQ)</topic>
+   </subject>
+   <subject>
+      <topic>People of colour (LGBTQ)</topic>
+   </subject>
+   <subject>
+      <topic>Queer people of colour</topic>
+   </subject>
+   <subject>
+      <topic>Latinx (LGBTQ)</topic>
+   </subject>
+   <subject>
+      <topic>LGBTQ people</topic>
+   </subject>
+   <subject>
+      <topic>Puerto Ricans</topic>
+   </subject>
+   <subject>
+      <topic>Minority college students</topic>
+   </subject>
+   <subject>
+      <topic>Minority college students--Services for</topic>
+   </subject>
+   <subject>
+      <topic>Minority college students--Social conditions</topic>
+   </subject>
+   <subject>
+      <topic>Minority college students--Societies, etc.</topic>
+   </subject>
+   <subject>
+      <topic>National Society of Black Engineers (U.S.). Tennessee Technological University Chapter.</topic>
+   </subject>
+   <subject>
+      <topic>American Society of Mechanical Engineers. Tennessee Technological University Chapter</topic>
+   </subject>
+   <subject>
+      <topic>Engineering Joint Council (Tennessee Technological University)</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University. College of Engineering. Engineering a Future</topic>
+   </subject>
+   <subject>
+      <topic>Theta Tau. Lambda Beta Chapter (Tennessee Technological University)</topic>
+   </subject>
+   <subject>
+      <topic>PepsiCo, Inc.</topic>
+   </subject>
+   <subject>
+      <topic>Frito-Lay, Inc.</topic>
+   </subject>
+   <subject>
+      <geographic>Fort Hood (Tex.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Germany</geographic>
+   </subject>
+   <subject>
+      <geographic>Fayetteville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Plano (Tex.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/io_055bb792-7724-45b2-8444-d56ec11acd49/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/io_055bb792-7724-45b2-8444-d56ec11acd49?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Black Cultural Center Oral History Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <accessCondition type="local rights statement">This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</accessCondition>
+</mods>

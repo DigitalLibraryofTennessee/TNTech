@@ -77,11 +77,6 @@
         </xsl:copy>
         
     </xsl:template>
-    
-    
-    
-    <!-- ignore nulls -->
-    
-    <xsl:template match="mods/*[self::node()[matches(.,'null')]]"/>
+   
     
 </xsl:stylesheet>

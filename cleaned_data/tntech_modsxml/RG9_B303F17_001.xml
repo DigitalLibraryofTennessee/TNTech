@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG9_B303F17_001</identifier>
+   <titleInfo>
+      <title>Home Economics Courses 111 and 112: Principles of Food</title>
+   </titleInfo>
+   <abstract>Syllabus for Tennessee Polytechnic Institute's Home Economics 111 and 112 Principles of Food courses taught by Mildred Kemmer Scott from 1946-1948.Â </abstract>
+   <name>
+      <namePart>Scott, Mildred Kemmer</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>circa 1946-1948</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Tennessee Polytechnic Institute</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University. School of Human Ecology</topic>
+   </subject>
+   <subject>
+      <topic>Home economics--Study and teaching</topic>
+   </subject>
+   <subject>
+      <topic>Home economics--Study and teaching (Higher)</topic>
+   </subject>
+   <subject>
+      <topic>Outlines and syllabi</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/io_6d1a2a52-bcac-48bf-9f07-be42b343fae0</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/io_6d1a2a52-bcac-48bf-9f07-be42b343fae0?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Records of the President</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <accessCondition type="local rights statement">This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</accessCondition>
+</mods>
