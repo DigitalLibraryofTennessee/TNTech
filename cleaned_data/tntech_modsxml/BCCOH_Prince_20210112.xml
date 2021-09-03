@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">BCCOH_Prince_20210112</identifier>
+   <titleInfo>
+      <title>Interview with Damon Prince</title>
+   </titleInfo>
+   <abstract>Audio recording of an interview of Damon Prince by Joshua Egwuatu conducted over Zoom for the Black Cultural Center Oral History Project. The recording duration is 1 hour, 5 minutes, 18 seconds. Prince attended Tennessee Tech University off and on from 1992 to 2014. Prince discusses his background in a military family, why he decided to attend Tennessee Tech, how Cookeville was different from other places he lived, how changes to high school academic requirements made him ineligible to play football at Tech, his interest in music and career in music, what it was like being a minority student at Tennessee Tech, university employees and friends that pushed and helped him graduate, how he got involved with the Leona Lusk Officer Black Cultural Center (BCC), how students used the Black Cultural Center, his career in human resources, and his work for Court Appointed Special Advocates (CASA). Princes gives advice to students and Egwuatu. Egwuatu compares his experiences with the BCC and college with Prince's experiences. For a transcript of the recording, see item BCCOH_Prince_20210112_transcript.</abstract>
+   <name>
+      <namePart>Egwuatu, Joshua I.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>2021-01-20</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Prince, Damon</topic>
+   </subject>
+   <subject>
+      <topic>Egwuatu, Joshua I.</topic>
+   </subject>
+   <subject>
+      <topic>African American college students</topic>
+   </subject>
+   <subject>
+      <topic>College students</topic>
+   </subject>
+   <subject>
+      <topic>African American men</topic>
+   </subject>
+   <subject>
+      <topic>African American young adults</topic>
+   </subject>
+   <subject>
+      <topic>Young adults</topic>
+   </subject>
+   <subject>
+      <topic>African Americans</topic>
+   </subject>
+   <subject>
+      <topic>African Americans--Education (Higher)</topic>
+   </subject>
+   <subject>
+      <topic>African American college athletes</topic>
+   </subject>
+   <subject>
+      <topic>College athletes</topic>
+   </subject>
+   <subject>
+      <topic>College athletes--Recruiting</topic>
+   </subject>
+   <subject>
+      <topic>College students</topic>
+   </subject>
+   <subject>
+      <topic>College students--Recruiting</topic>
+   </subject>
+   <subject>
+      <topic>Interviews</topic>
+   </subject>
+   <subject>
+      <topic>Occupations</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges--Alumni and alumnae</topic>
+   </subject>
+   <subject>
+      <topic>Oral histories</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University. Office of Student Affairs. Office of Multicultural Affairs</topic>
+   </subject>
+   <subject>
+      <topic>Families of military personnel</topic>
+   </subject>
+   <subject>
+      <topic>Children of military personnel</topic>
+   </subject>
+   <subject>
+      <topic>Collins, Mike</topic>
+   </subject>
+   <subject>
+      <topic>Football</topic>
+   </subject>
+   <subject>
+      <topic>Basketball</topic>
+   </subject>
+   <subject>
+      <topic>African American football players</topic>
+   </subject>
+   <subject>
+      <topic>Football players</topic>
+   </subject>
+   <subject>
+      <topic>African American basketball players</topic>
+   </subject>
+   <subject>
+      <topic>Basketball players</topic>
+   </subject>
+   <subject>
+      <topic>Rap musicians</topic>
+   </subject>
+   <subject>
+      <topic>Rap (Music)</topic>
+   </subject>
+   <subject>
+      <topic>Music trade</topic>
+   </subject>
+   <subject>
+      <topic>McKenzie, Yvonne P., 1953-2019</topic>
+   </subject>
+   <subject>
+      <topic>Griffin, Gene, 1944-2009</topic>
+   </subject>
+   <subject>
+      <topic>Musicians</topic>
+   </subject>
+   <subject>
+      <topic>African American musicians</topic>
+   </subject>
+   <subject>
+      <topic>Hip-hop</topic>
+   </subject>
+   <subject>
+      <topic>Phi Beta Sigma Fraternity. Alpha Beta Xi Chapter (Tennessee Technological University)</topic>
+   </subject>
+   <subject>
+      <topic>Homecoming</topic>
+   </subject>
+   <subject>
+      <topic>College students--Social life and customs</topic>
+   </subject>
+   <subject>
+      <topic>Owens, Robert L.</topic>
+   </subject>
+   <subject>
+      <topic>Burnett, Marc L.</topic>
+   </subject>
+   <subject>
+      <topic>Bridges-Phillips, Libby</topic>
+   </subject>
+   <subject>
+      <topic>Upper Cumberland Human Resource Agency. Court Appointed Special Advocates</topic>
+   </subject>
+   <subject>
+      <geographic>Brooklyn (New York, N.Y.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Italy</geographic>
+   </subject>
+   <subject>
+      <geographic>California</geographic>
+   </subject>
+   <subject>
+      <geographic>Enid (Okla.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Atlanta (Ga.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/io_48536c69-f6ba-4a06-80b1-3116d8da79c3/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/io_48536c69-f6ba-4a06-80b1-3116d8da79c3?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Black Cultural Center Oral History Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <accessCondition type="local rights statement">This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</accessCondition>
+</mods>

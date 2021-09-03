@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">Acc2020_0027_20201105_001</identifier>
+   <titleInfo>
+      <title>National Society of Black Engineers website</title>
+   </titleInfo>
+   <abstract>Capture of the Tennessee Tech Chapter of the National Society of Black Engineer's website on November 5, 2020.</abstract>
+   <name>
+      <namePart>National Society of Black Engineers (U.S.). Tennessee Technological University Chapter</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>2020-11-05</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>African American--Societies, etc.</topic>
+   </subject>
+   <subject>
+      <topic>African American college students</topic>
+   </subject>
+   <subject>
+      <topic>African American young adults</topic>
+   </subject>
+   <subject>
+      <topic>College students</topic>
+   </subject>
+   <subject>
+      <topic>Young adults</topic>
+   </subject>
+   <subject>
+      <topic>Engineering students</topic>
+   </subject>
+   <subject>
+      <topic>National Society of Black Engineers (U.S.). Tennessee Technological University Chapter</topic>
+   </subject>
+   <subject>
+      <topic>College students--Societies, etc.</topic>
+   </subject>
+   <subject>
+      <topic>Women engineering students</topic>
+   </subject>
+   <subject>
+      <topic>Web sites</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>software, multimedia</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/io_3f607670-dbd9-4e76-8fbc-acf5a6d66bc5</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/io_3f607670-dbd9-4e76-8fbc-acf5a6d66bc5?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>National Society of Black Engineers Tennessee Tech Chapter records</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <accessCondition type="local rights statement">This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</accessCondition>
+</mods>

@@ -6,13 +6,13 @@
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
-<records>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 ```
 
 ## Row Template
 
 ```
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods>
 {{if(isBlank(cells['dcterms.identifier'].value), '', '<identifier type="local">' + cells['dcterms.identifier'].value + '</identifier>')}}
 {{if(isBlank(cells["dcterms.title"].value), '', '<titleInfo><title>' + cells["dcterms.title"].value + '</title></titleInfo>')}}
 {{if(isBlank(cells["dcterms.description"].value),'', '<abstract>' + cells['dcterms.description'].value + '</abstract>')}}
@@ -95,6 +95,6 @@
 ## Suffix
 
 ```
-</records>
+</modsCollection>
 
 ```
