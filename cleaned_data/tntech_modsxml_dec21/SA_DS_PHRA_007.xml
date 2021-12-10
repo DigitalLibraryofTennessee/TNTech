@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">SA_DS_PHRA_007</identifier>
+   <titleInfo>
+      <title>Constitution of the Peace and Human Rights Alliance</title>
+   </titleInfo>
+   <abstract>Constitution of the Peace and Human Rights Alliance at Tennessee Tech University. Includes a handwritten note "Ratified 1-15-70."</abstract>
+   <name>
+      <namePart>Peace and Human Rights Alliance (Tennessee Technological University)</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1970-01-15</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Peace and Human Rights Alliance (Tennessee Technological University)</topic>
+   </subject>
+   <subject>
+      <topic>Social movements</topic>
+   </subject>
+   <subject>
+      <topic>Student movements</topic>
+   </subject>
+   <subject>
+      <topic>College students</topic>
+   </subject>
+   <subject>
+      <topic>College students--Societies, etc.</topic>
+   </subject>
+   <subject>
+      <topic>Young adults</topic>
+   </subject>
+   <subject>
+      <topic>College students--Political activity</topic>
+   </subject>
+   <subject>
+      <topic>Peace movements</topic>
+   </subject>
+   <subject>
+      <topic>Constitutions</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_467e7cc3-75fd-4b2b-a7c4-c142d8d090d3</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_467e7cc3-75fd-4b2b-a7c4-c142d8d090d3?fallback-thumbnail=1</url>
+   </location>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Office of the Dean of Students records</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Peace and Human Rights Alliance</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

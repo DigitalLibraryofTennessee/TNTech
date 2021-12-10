@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">SA_DS_PHRA_004</identifier>
+   <titleInfo>
+      <title>Kent State tragedy</title>
+   </titleInfo>
+   <abstract>Announcement by a group of Tennessee Tech University students sponsored by the Peace and Human Rights Alliance regarding the National Guard shootings of students at Kent State and inviting people to "wear a black arm band or path and to sign our letter to the governor of Ohio."</abstract>
+   <name>
+      <namePart>Peace and Human Rights Alliance (Tennessee Technological University)</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1970</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Peace and Human Rights Alliance (Tennessee Technological University)</topic>
+   </subject>
+   <subject>
+      <topic>Social movements</topic>
+   </subject>
+   <subject>
+      <topic>Student movements</topic>
+   </subject>
+   <subject>
+      <topic>College students</topic>
+   </subject>
+   <subject>
+      <topic>College students--Societies, etc.</topic>
+   </subject>
+   <subject>
+      <topic>Young adults</topic>
+   </subject>
+   <subject>
+      <topic>College students--Political activity</topic>
+   </subject>
+   <subject>
+      <topic>Peace movements</topic>
+   </subject>
+   <subject>
+      <topic>Vietnam War, 1961-1975</topic>
+   </subject>
+   <subject>
+      <topic>Kent State Shootings, Kent, Ohio, 1970</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_806c7acf-e9af-41cf-b0fb-5a117fc822de</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_806c7acf-e9af-41cf-b0fb-5a117fc822de?fallback-thumbnail=1</url>
+   </location>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Office of the Dean of Students records</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Peace and Human Rights Alliance</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

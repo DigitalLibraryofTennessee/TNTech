@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">SA_DS_Stand_002</identifier>
+   <titleInfo>
+      <title>Constitution of the Tennessee Tech Stand up for America Club</title>
+   </titleInfo>
+   <abstract>Constitution of the Tennessee Tech Stand Up for America Club, a white supremacist student organization founded in reaction to the civil rights movement and affiliated with the White Citizens' Council of America and the Putnam County Citizens' Council.</abstract>
+   <name>
+      <namePart>Tennessee Tech Stand Up for America Club (Tennessee Technological University)</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1968-10-09</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>College students--Societies, etc.</topic>
+   </subject>
+   <subject>
+      <topic>Anti-communist movements</topic>
+   </subject>
+   <subject>
+      <topic>Conservatism</topic>
+   </subject>
+   <subject>
+      <topic>States' rights (American politics)</topic>
+   </subject>
+   <subject>
+      <topic>White Citizens councils</topic>
+   </subject>
+   <subject>
+      <topic>White supremacy movements</topic>
+   </subject>
+   <subject>
+      <topic>White nationalism</topic>
+   </subject>
+   <subject>
+      <topic>Civil rights movements</topic>
+   </subject>
+   <subject>
+      <topic>Constitutions</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_4899b53d-291e-4ab4-9a0b-4d61ff7cc323</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_4899b53d-291e-4ab4-9a0b-4d61ff7cc323?fallback-thumbnail=1</url>
+   </location>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Office of the Dean of Students records</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Tennessee Tech Stand Up for America Club</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

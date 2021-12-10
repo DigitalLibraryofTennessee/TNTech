@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">BCCOH_Owens_20201118</identifier>
+   <titleInfo>
+      <title>Interview with Dana Owens</title>
+   </titleInfo>
+   <abstract>Audio recording of an interview of Dana Mason Owens by Ariauna Buckingham conducted over Zoom for the Black Cultural Center Oral History Project. The recording duration is 1 hour, 3 minutes, 50 seconds. Owens enrolled in Tennessee Tech University as an undergraduate in Fall 1992. She earned three degrees from Tech. Owens describes growing up and attending school in Knoxville, Tennessee, her decision to attend Tennessee Tech University, what it was like transitioning to a predominantly white university and university academics, her decision on majoring in engineering and then switching to biology, what it was like living in Early Hall and another dormitory on campus, her work-study positions while in school, staff and faculty members that influenced her, how the Black Cultural Center changed over time and the different directors of the Center, what she did for fun while a student, pleding and being a soror in Alpha Kappa Alpha Sorority, Inc., what it was like being a minority student on campus, her pride in getting three degree from Tech and how she applies those as a homeschool educator and mother, the Blizzard at basketball games, step shows on campus, lasting friendships from college, the differences between the assistance and resources available to students now compared to when she was in college, advice for minority college students, her memories of President Angelo Volpe, and how she did not have any Black teachers for her undergraduate courses. For a transcript of the recording, see item BCCOH_Owens_20201118_transcript.</abstract>
+   <name>
+      <namePart>Owens, Dana Mason, 1974-</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Buckingham, Ariauna</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>2020-11-18</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Interviews</topic>
+   </subject>
+   <subject>
+      <topic>Oral histories</topic>
+   </subject>
+   <subject>
+      <topic>College students</topic>
+   </subject>
+   <subject>
+      <topic>Women college students</topic>
+   </subject>
+   <subject>
+      <topic>African American women college students</topic>
+   </subject>
+   <subject>
+      <topic>African American college students</topic>
+   </subject>
+   <subject>
+      <topic>Women adults</topic>
+   </subject>
+   <subject>
+      <topic>Young adults</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges--Alumni and alumnae</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University. Office of Student Affairs. Office of Multicultural Affairs</topic>
+   </subject>
+   <subject>
+      <topic>College students--Social life and customs</topic>
+   </subject>
+   <subject>
+      <topic>Minority college students</topic>
+   </subject>
+   <subject>
+      <topic>Minority college students--Services for</topic>
+   </subject>
+   <subject>
+      <topic>Minority college students--Societies, etc.</topic>
+   </subject>
+   <subject>
+      <topic>African American college students--Societies, etc.</topic>
+   </subject>
+   <subject>
+      <topic>Alpha Kappa Alpha Sorority. Xi Alpha Chapter (Tennessee Technological University)</topic>
+   </subject>
+   <subject>
+      <topic>African American Greek letter societies</topic>
+   </subject>
+   <subject>
+      <topic>Greek letter societies</topic>
+   </subject>
+   <subject>
+      <topic>African American school children</topic>
+   </subject>
+   <subject>
+      <topic>School children</topic>
+   </subject>
+   <subject>
+      <topic>College choice</topic>
+   </subject>
+   <subject>
+      <topic>Student housing</topic>
+   </subject>
+   <subject>
+      <topic>Martin, Mayme D.</topic>
+   </subject>
+   <subject>
+      <topic>Phelps, Maggie</topic>
+   </subject>
+   <subject>
+      <geographic>Knoxville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Knox County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_c3ec4266-fe81-43ed-b674-b03bacc84a2c/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_c3ec4266-fe81-43ed-b674-b03bacc84a2c?fallback-thumbnail=1</url>
+   </location>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Black Cultural Center Oral History Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Dana Owens and Ariauna Buckingham</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

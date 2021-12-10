@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG27_B51F06_003</identifier>
+   <titleInfo>
+      <title>President and First Lady Derryberry with cat in Walton House</title>
+   </titleInfo>
+   <abstract>Photograph of Tennessee Tech University President Everett Derryberry and First Lady Joan Derryberry seated in a living room of Walton House of Tennessee Tech. Joan is seated on a sofa and petting the family's cat, which is laying on the sofa armrest. Everett is seated on a sidechair beside the sofa and looking at the cat.</abstract>
+   <name>
+      <namePart>Tennessee Technological University. Office of Communications and Marketing</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>circa 1960s-1970s</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Derryberry, Joan (Gertrude Joan Pitt-Rew), 1906-1998</topic>
+   </subject>
+   <subject>
+      <topic>Derryberry, William Everett, 1906-1991</topic>
+   </subject>
+   <subject>
+      <topic>College presidents</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Polytechnic Institute</topic>
+   </subject>
+   <subject>
+      <topic>College presidents' spouses</topic>
+   </subject>
+   <subject>
+      <topic>College presidents--Dwellings</topic>
+   </subject>
+   <subject>
+      <topic>Cats</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University. Walton House</topic>
+   </subject>
+   <subject>
+      <topic>Pets</topic>
+   </subject>
+   <subject>
+      <topic>Domestic animals</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_6770a833-7960-4ad6-9099-fd4725bc3c24</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_6770a833-7960-4ad6-9099-fd4725bc3c24?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>William Everett Derryberry papers</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Tennessee Technological University</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

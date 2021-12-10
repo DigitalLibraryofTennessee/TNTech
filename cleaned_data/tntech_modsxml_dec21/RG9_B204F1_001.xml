@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG9_B204F1_001</identifier>
+   <titleInfo>
+      <title>Memorandum on the action of the University Joint Councils regarding social fraternities and sororities</title>
+   </titleInfo>
+   <abstract>Memo from Tennessee Tech University Dean of Student Services William H. Roden to advisors and officials of social fraternities and sororities on the University Joint Council's decision to authorize "social fraternities and sororities at the university to seek permanent affiliation with National social fraternities and sororities."</abstract>
+   <name>
+      <namePart>Roden, William H., 1922-2013</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1969-03-15</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Tennessee Technological University</topic>
+   </subject>
+   <subject>
+      <topic>Greek letter societies</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges--Administration</topic>
+   </subject>
+   <subject>
+      <topic>College students--Societies, etc.</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_ac620f4d-5632-4067-aa6d-3ccc872d0873</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_ac620f4d-5632-4067-aa6d-3ccc872d0873?fallback-thumbnail=1</url>
+   </location>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Records of the President</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Tennessee Technological University</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
