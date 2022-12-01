@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG42_SR_0183</identifier>
+   <titleInfo>
+      <title>Charles Faulkner Bryan home videos "Indian Springs School, Helena, Alabama. 2"</title>
+   </titleInfo>
+   <abstract>Falconhurst outside (:00), waterway and bridge (:38), Falconhurst (:58), Indian Springs School (1:14), Chickamauga and Chattanooga National Military Park (1:54), incline railway (2:22), waterfall (Glenn Falls, Chattanooga, Tenn. unconfirmed) (2:27), older man playing banjo and Charles Jr. dancing on front porch (2:45), are with rhododendron and conifers (3:03).</abstract>
+   <originInfo>
+      <dateCreated>circa 1955</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Falconhurst (McMinnville, Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Bryan, Edith Hillis</topic>
+   </subject>
+   <subject>
+      <topic>Indian Springs School (Indian Springs, Ala.)</topic>
+   </subject>
+   <subject>
+      <topic>Banjo</topic>
+   </subject>
+   <subject>
+      <topic>Chickamauga and Chattanooga National Military Park (Ga. and Tenn.). Historical Museum</topic>
+   </subject>
+   <subject>
+      <topic>New York Peace Monument</topic>
+   </subject>
+   <subject>
+      <topic>Lookout Mountain (Appalachian Mountains)</topic>
+   </subject>
+   <subject>
+      <topic>Lookout Mountain Incline Railway</topic>
+   </subject>
+   <subject>
+      <topic>Children</topic>
+   </subject>
+   <subject>
+      <topic>Video recordings</topic>
+   </subject>
+   <subject>
+      <geographic>McMinnville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Helena (Ala.)</geographic>
+   </subject>
+   <typeOfResource>moving image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_57927999-2060-4862-9985-42d9128fe019/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_57927999-2060-4862-9985-42d9128fe019?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 42 Charles Faulkner Bryan papers, reel film.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Bryan, Charles Faulkner</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">ClotheslineProject</identifier>
+   <titleInfo>
+      <title>The Clothesline Project</title>
+   </titleInfo>
+   <abstract>The Clothesline Project displays handmade shirts bearing witness to interpersonal violence in the community. Each shirt is decorated to represent a particular survivor's experience. The Clothesline Project started with thirty-one shirts hung in Hyannis, Massachusetts in 1990 to call attention to violence against women. Since then, thousands of projects have been started in communities worldwide. The shirts in this collection are made by people affected by interpersonal violence. The Tennessee Tech Women's Center participated in the Clothesline project since 1998 and welcomed participation from all people. Current shirts in the project are on display every April during Sexual Assault Awareness Month. The Clothesline Project aims to bear witness to survivors and victims of interpersonal violence; help with the healing process of survivors or those who have lost a loved one to interpersonal violence; educate, document, and raise awareness of the extent of the problem in the community; and provide a nationwide network of support, encouragement, and information for other communities starting their own Clothesline Projects. Shirt colors hold meaning: -WHITE represents those who have died because of interpersonal violence -YELLOW or BEIGE represent those assaulted by an intimate partner or family member RED, PINK, or ORANGE are for survivors of rape and sexual assault -BLUE or GREEN shirts represent survivors of incest or child sexual abuse -PURPLE or LAVENDER represents people attacked because of their sexual orientation or gender identity Colors are not mandatory if a different color or pattern has special significance to a creator. Creators draw, paint, print, or embroider their messages on the shirts to create moving, personal tributes. Shirts do not contain names of perpetrators but may contain first names or initials. Some shirts include a description of a memorialized person.</abstract>
+   <originInfo>
+      <dateCreated>1998-2022</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>The Clothesline Project</topic>
+   </subject>
+   <subject>
+      <topic>Family violence</topic>
+   </subject>
+   <subject>
+      <topic>Abused women</topic>
+   </subject>
+   <subject>
+      <topic>Wife abuse</topic>
+   </subject>
+   <subject>
+      <topic>Same-sex partner abuse</topic>
+   </subject>
+   <subject>
+      <topic>Husband abuse</topic>
+   </subject>
+   <subject>
+      <topic>Spousal abuse</topic>
+   </subject>
+   <subject>
+      <topic>Uxoricide</topic>
+   </subject>
+   <subject>
+      <topic>Child abuse</topic>
+   </subject>
+   <subject>
+      <topic>Women--Violence against</topic>
+   </subject>
+   <subject>
+      <topic>Rape victims</topic>
+   </subject>
+   <subject>
+      <topic>Rape--Prevention</topic>
+   </subject>
+   <subject>
+      <topic>National Domestic Violence Awareness Month</topic>
+   </subject>
+   <subject>
+      <topic>Incest victims</topic>
+   </subject>
+   <subject>
+      <topic>Mental healing</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/SO_69c3ce3b-b358-4d53-a22b-627a2e7d039e/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/SO_69c3ce3b-b358-4d53-a22b-627a2e7d039e?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 166 Women Center Records, Annual Events.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Tennessee Technological University</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

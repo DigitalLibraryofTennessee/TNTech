@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG42_SR_0186</identifier>
+   <titleInfo>
+      <title>Charles Faulkner Bryan home videos "Betty Lynn, Linda, Gene, Clark, Susan, and Ellen. Pig Tails and Dolls"</title>
+   </titleInfo>
+   <abstract>Young children playing in barrels in yard. Betty Lynn and Edith dressed in Sunday clothes at home. Betty Lynn playing with dolls.</abstract>
+   <originInfo>
+      <dateCreated>circa 1943</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Children</topic>
+   </subject>
+   <subject>
+      <topic>Dolls</topic>
+   </subject>
+   <subject>
+      <topic>Toys</topic>
+   </subject>
+   <subject>
+      <topic>Country life</topic>
+   </subject>
+   <subject>
+      <topic>Clothing and dress</topic>
+   </subject>
+   <subject>
+      <topic>Toddlers</topic>
+   </subject>
+   <subject>
+      <topic>Video recordings</topic>
+   </subject>
+   <subject>
+      <geographic>Upper Cumberland Region (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>moving image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_f1e605f0-4478-4b0d-9d5a-b795a3ceb282/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_f1e605f0-4478-4b0d-9d5a-b795a3ceb282?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 42 Charles Faulkner Bryan papers, reel film.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Bryan, Charles Faulkner</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

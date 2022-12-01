@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG42_SR_0181</identifier>
+   <titleInfo>
+      <title>Charles Faulkner Bryan home videos "Betty Lynn Centennial Park"</title>
+   </titleInfo>
+   <abstract>Edith and Betty (two years old approximately) by water at Parthenon in Nashville, Tenn. and Centennial Park, outside of family home in Cookeville, Tenn. (1:24), outside with horses by dirt road/trail near truss bridge at unknown location (3:31), small children walking together (5:07), family getting in car (5:12), family arriving at a home (5:27), children and small children walking (5:35), climbing dam at Standing Stone State Park (11:19), mill with water as seen in home video RG42_SR_0177 (12:47), dredging (unconfirmed) (13:01), picnic (13:06), unknown karst features and overlook (13:32), unknown stone building and overlook (14:00).</abstract>
+   <originInfo>
+      <dateCreated>circa 1942</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Parthenon (Art museum : Nashville, Tenn.</topic>
+   </subject>
+   <subject>
+      <topic>Truss bridges</topic>
+   </subject>
+   <subject>
+      <topic>Standing Stone (Monterey, Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Picnics</topic>
+   </subject>
+   <subject>
+      <topic>Children</topic>
+   </subject>
+   <subject>
+      <topic>Automobile driving</topic>
+   </subject>
+   <subject>
+      <topic>Video recordings</topic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Monterey (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>moving image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_3dc340a6-c605-4d04-bc6d-df8c8c7d16d3/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_3dc340a6-c605-4d04-bc6d-df8c8c7d16d3?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 42 Charles Faulkner Bryan papers, reel film.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Bryan, Charles Faulkner</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

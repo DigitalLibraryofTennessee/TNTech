@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG42_SR_0184</identifier>
+   <titleInfo>
+      <title>Charles Faulkner Bryan home videos "Alligator and Fort at St. Augustine"</title>
+   </titleInfo>
+   <abstract>Alligator farm and petting zoo with ostriches (unconfirmed), Edith and Charles on carriage (:31), Edith and Charles exploring Castillo de San Marcos National Monument (Saint Augustine, Fla.) (:45).</abstract>
+   <originInfo>
+      <dateCreated>circa 1944</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Castillo de San Marcos National Monument (Saint Augustine, Fla.)</topic>
+   </subject>
+   <subject>
+      <topic>Travel</topic>
+   </subject>
+   <subject>
+      <topic>Tourism</topic>
+   </subject>
+   <subject>
+      <topic>Alligator farming</topic>
+   </subject>
+   <subject>
+      <topic>Petting zoos</topic>
+   </subject>
+   <subject>
+      <topic>Video recordings</topic>
+   </subject>
+   <subject>
+      <geographic>Saint Augustine (Fla.)</geographic>
+   </subject>
+   <typeOfResource>moving image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_510a2515-e061-4ee0-996a-792fc0643ccd/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_510a2515-e061-4ee0-996a-792fc0643ccd?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 42 Charles Faulkner Bryan papers, reel film.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Bryan, Charles Faulkner</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">LD5277.T55</identifier>
+   <titleInfo>
+      <title>Eagle yearbook</title>
+   </titleInfo>
+   <abstract>Digitized and born-digital editions of The Eagle, the student-produced yearbook of Tennessee Tech University. Yearbooks include headshots of students, faculty members, administration, and staff; photographs of student organizations and athletic teams formally recognized by the university; photographs of campus and buildings; and photographs of events. Born-digital editions of The Eagle were originally distributed on DVDs. The born-digital editions include the software executable files and the video, image, and text files that make up the yearbooks. Note: The yearbook files are very large and will have difficulty loading on devices with low internet download speed. If you have trouble accessing a file, please contact the Archives and we can provide a different way to access the files.</abstract>
+   <originInfo>
+      <dateCreated>1926-2009, 2012</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>College yearbooks</topic>
+   </subject>
+   <subject>
+      <topic>School yearbooks</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University</topic>
+   </subject>
+   <subject>
+      <topic>College students--Societies, etc.</topic>
+   </subject>
+   <subject>
+      <topic>College students--Social life and customs</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges--Employees</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/SO_b16f029d-c05d-42ce-9e73-5b9ee6c3d73f/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/SO_b16f029d-c05d-42ce-9e73-5b9ee6c3d73f?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>The Eagle</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Tennessee Technological University</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG42_SR_0180</identifier>
+   <titleInfo>
+      <title>Charles Faulkner Bryan home videos "untitled"</title>
+   </titleInfo>
+   <abstract>Two individuals entering a public building for a wedding (unconfirmed) then man gets on airplane, Bryan family exiting Falconhurst (0:42), mansion (1:03), building then marching band performing on field (1:07), travel and overlook and Volkswagen Beatle (Europe and Switzerland, unconfirmed) (1:23), United States Army helicopter taking off (3:08), views from travel (3:37) overlook (3:42), taking picture at two unknown locations (4:05), ski lift (4:30), snowy mountain (5:46), playing guitar in field (6:05), feeding pigeons in square in Venice and area (6:45), Ferrari (7:39), man diving off high dive (7:59), visiting a cave (grotto) (8:05). waterspout (unconfirmed) (8:35), gardens (8:42), Switzerland (9:08).</abstract>
+   <originInfo>
+      <dateCreated>circa 1955</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Ski lifts</topic>
+   </subject>
+   <subject>
+      <topic>Basilica di San Marco (Venice, Italy)</topic>
+   </subject>
+   <subject>
+      <topic>Vacations</topic>
+   </subject>
+   <subject>
+      <topic>Ferrari automobile</topic>
+   </subject>
+   <subject>
+      <topic>Diving</topic>
+   </subject>
+   <subject>
+      <topic>Caves</topic>
+   </subject>
+   <subject>
+      <topic>Gardens</topic>
+   </subject>
+   <subject>
+      <topic>Video recordings</topic>
+   </subject>
+   <subject>
+      <geographic>Switzerland</geographic>
+   </subject>
+   <subject>
+      <geographic>Venice (Italy)</geographic>
+   </subject>
+   <typeOfResource>moving image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_e9f8c4a5-2ea2-40e4-b268-45d27de1057e/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_e9f8c4a5-2ea2-40e4-b268-45d27de1057e?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 42 Charles Faulkner Bryan papers, reel film.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Bryan, Charles Faulkner</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

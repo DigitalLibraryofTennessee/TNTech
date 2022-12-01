@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG42_SR_0178</identifier>
+   <titleInfo>
+      <title>Charles Faulkner Bryan home videos "Cookeville"</title>
+   </titleInfo>
+   <abstract>Begins with Bryan family on rural road, truss bridge (:26), Tennessee Polytechnic Institute marching band on parade in Cookeville for sports event (:40), band seated in stands at stadium at Tennessee Polytechnic Institute with cheerleaders (1:13), Tennessee Polytechnic Institute students lining up in front of campus building for photograph by Harding Studio (unconfirmed) (1:50), exiting home with male toddler and Betty then playing in yard (unconfirmed) (3:54), Bryan's visit the Ferris Underwood Foster house and garden on Lowe Street, Cookeville, Tenn. (unconfirmed), hiking and collecting plants, visiting overlook at Bee Rock in Monterey, Tenn. (unconfirmed), drinking from a spring, and newborn hogs (9:23).</abstract>
+   <originInfo>
+      <dateCreated>circa 1943</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Tennessee Technological University</topic>
+   </subject>
+   <subject>
+      <topic>Photography</topic>
+   </subject>
+   <subject>
+      <topic>Cheerleading</topic>
+   </subject>
+   <subject>
+      <topic>Marching bands</topic>
+   </subject>
+   <subject>
+      <topic>Parades</topic>
+   </subject>
+   <subject>
+      <topic>Children</topic>
+   </subject>
+   <subject>
+      <topic>Rural roads</topic>
+   </subject>
+   <subject>
+      <topic>Truss bridges</topic>
+   </subject>
+   <subject>
+      <topic>Gardens</topic>
+   </subject>
+   <subject>
+      <topic>Scenic overlooks</topic>
+   </subject>
+   <subject>
+      <topic>Springs</topic>
+   </subject>
+   <subject>
+      <topic>Video recordings</topic>
+   </subject>
+   <subject>
+      <topic>Harding Studio</topic>
+   </subject>
+   <subject>
+      <topic>Hiking</topic>
+   </subject>
+   <subject>
+      <topic>Bee Rock Overlook (Monterey, Tenn.)</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>moving image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_a84c64d0-d3cc-4bd2-947b-188baecf2203/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_a84c64d0-d3cc-4bd2-947b-188baecf2203?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 42 Charles Faulkner Bryan papers, reel film.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Bryan, Charles Faulkner</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

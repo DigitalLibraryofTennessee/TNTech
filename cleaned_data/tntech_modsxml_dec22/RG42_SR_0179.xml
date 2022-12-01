@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG42_SR_0179</identifier>
+   <titleInfo>
+      <title>Charles Faulkner Bryan home videos "Folks"</title>
+   </titleInfo>
+   <abstract>Bryan family at home with Betty and Charles Jr in yard and playing with accordion at Falconhurst in McMinnville, Tenn., exiting home in Cookeville, Tenn. (unconfirmed) (2:01), Falconhurst with the Bryan family (2:05), Black women hanging laundry in yard at Falconhurst (3:12), White women in cap and gown outside of Cookeville home (3:20), in-laws arriving at home (3:42), unknown locations (4:02), eating watermelon outside with family (4:27), family outside of house looking at yard and barn (5:52), driving in car and looking at corn field (7:17), driving and passing horse drawn vehicles (7:15), arriving at family's home with Charles Jr. and Betty (7:54), Charles on a fiddle and accordion (9:50), outside of home at Cherry Street, Cookeville, Tenn. (unconfirmed) (10:38), Charles catching chickens at Falconhurst (10:59), exiting academic building at Tennessee Polytechnic Institute and the quad (11:19), Edith eating snow from yard and making snowballs (11:54), Edith in yard modeling outfits (13:19), Bryan family exiting home (13:52), infant looking at swan (14:20).</abstract>
+   <originInfo>
+      <dateCreated>circa 1943</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Children</topic>
+   </subject>
+   <subject>
+      <topic>Accordion</topic>
+   </subject>
+   <subject>
+      <topic>Falconhurst (McMinnville, Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Thedford's Black Draught</topic>
+   </subject>
+   <subject>
+      <topic>Watermelons</topic>
+   </subject>
+   <subject>
+      <topic>Picnics</topic>
+   </subject>
+   <subject>
+      <topic>Academic costume</topic>
+   </subject>
+   <subject>
+      <topic>Rural roads</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University</topic>
+   </subject>
+   <subject>
+      <topic>The Quad -- Cookeville, Tenn.</topic>
+   </subject>
+   <subject>
+      <topic>Snow</topic>
+   </subject>
+   <subject>
+      <topic>Bryan, Edith Hillis</topic>
+   </subject>
+   <subject>
+      <topic>Video recordings</topic>
+   </subject>
+   <subject>
+      <geographic>McMinnville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>moving image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_f625b071-53ae-4938-b514-411d78db4130/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_f625b071-53ae-4938-b514-411d78db4130?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 42 Charles Faulkner Bryan papers, reel film.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Bryan, Charles Faulkner</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
