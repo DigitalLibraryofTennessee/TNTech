@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">2022-0007_1_f_001</identifier>
+   <titleInfo>
+      <title>Myrtis Conry, 1929</title>
+   </titleInfo>
+   <abstract>Photograph recto: Myrtis Conroy in graduation regalia. Photograph verso: "Myrtis Orlena Leonard Conry, Class of 1929" [from Tennessee Polytechnic Institute] (handwritten) and "Harding Photo-finishing Cookeville, Tenn. 24 hour service" (stamped).</abstract>
+   <name>
+      <namePart>Harding Studio (1914-1974)</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1929</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Conry, Myrtis Leonard</topic>
+   </subject>
+   <subject>
+      <topic>College graduates</topic>
+   </subject>
+   <subject>
+      <topic>Commencement ceremonies</topic>
+   </subject>
+   <subject>
+      <topic>Women college students</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Polytechnic Institute</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/SO_0d2c5133-4659-47dd-ad5c-c5839a296d8a/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/SO_0d2c5133-4659-47dd-ad5c-c5839a296d8a?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 1.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Harding Studio</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
+</mods>

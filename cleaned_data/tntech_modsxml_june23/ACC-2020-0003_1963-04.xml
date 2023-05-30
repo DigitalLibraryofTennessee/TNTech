@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">ACC-2020-0003_1963-04</identifier>
+   <titleInfo>
+      <title>Tech Garden Club pamphlet, 1963 flier</title>
+   </titleInfo>
+   <abstract>Pamphlets and one flier documenting the activities of the Tech Garden Club. The club was founded in September 1956. Includes booklets with officer and committee lists, membership lists, meeting schedules, and the club constitutions.</abstract>
+   <name>
+      <namePart>Tech Garden Club</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1963-04</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Gardening--Societies, etc.</topic>
+   </subject>
+   <subject>
+      <topic>Programs (Publications)</topic>
+   </subject>
+   <subject>
+      <topic>Horticulture</topic>
+   </subject>
+   <subject>
+      <topic>clubs (associations)</topic>
+   </subject>
+   <subject>
+      <topic>constitutions</topic>
+   </subject>
+   <subject>
+      <topic>Associations, institutions, etc.—Membership</topic>
+   </subject>
+   <subject>
+      <topic>By-laws</topic>
+   </subject>
+   <subject>
+      <topic>College students--Scholarships, fellowships, etc.</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_697666e3-b8e4-4586-b679-b0c2b4caf237/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_697666e3-b8e4-4586-b679-b0c2b4caf237?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Acc#2020-0003, Tech Garden Club collection.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Tech Garden Club</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
+</mods>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">BCMBC_Ledger_003</identifier>
+   <titleInfo>
+      <title>Brush Creek Missionary Baptist Church volume 3</title>
+   </titleInfo>
+   <abstract>Articles of Faith, Church Covenant, Meeting Minutes (1904-1917), Memberships Listings, Accounting, and Obituaries.</abstract>
+   <name>
+      <namePart>Brush Creek Missionary Baptist Church (Brush Creek, Tenn.)</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1904-1916</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Church history</topic>
+   </subject>
+   <subject>
+      <topic>Baptists</topic>
+   </subject>
+   <subject>
+      <topic>Church records and registers</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee--Smith County</topic>
+   </subject>
+   <subject>
+      <geographic>Brush Creek (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Smith County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_edb3f633-23c6-4fe3-9492-2a561cce8787/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_edb3f633-23c6-4fe3-9492-2a561cce8787?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Brush Creek Missionary Baptist Church</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Brush Creek Missionary Baptist Church, Brush Creek, Tenn.</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

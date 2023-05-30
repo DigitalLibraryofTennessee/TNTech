@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">Student Handbooks</identifier>
+   <titleInfo>
+      <title>Student Handbooks</title>
+   </titleInfo>
+   <abstract>Handbooks from Tennessee Polytechnic Institute, later Tennessee Technological University, that were given to each to student to provide key information about the resources available to them as college students on Tennessee Tech's campus. These handbooks also provide information on rules, regulations, classes, and extracurriculars for students on Tech's campus.</abstract>
+   <name>
+      <namePart>Tennessee Technological University. Division of Student Affairs</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Tennessee Polytechnic Institute</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University</topic>
+   </subject>
+   <subject>
+      <topic>handbooks</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/SO_2a422417-d2ea-42d7-b5ff-28d718a729fc/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/SO_2a422417-d2ea-42d7-b5ff-28d718a729fc?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Division of Student Affairs Records</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Tennessee Technological University</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
+</mods>

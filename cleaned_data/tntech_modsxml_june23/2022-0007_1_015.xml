@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">2022-0007_1_015</identifier>
+   <titleInfo>
+      <title>Myrtis Conry, circa 1920</title>
+   </titleInfo>
+   <abstract>Myrtis Conry portrait.</abstract>
+   <originInfo>
+      <dateCreated>circa 1920</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Portrait photography</topic>
+   </subject>
+   <subject>
+      <topic>Conry, Myrtis Leonard</topic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_ba6d74c2-576b-41fc-a0b4-1bb6ce7cd6a6/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_ba6d74c2-576b-41fc-a0b4-1bb6ce7cd6a6?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 1.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
+</mods>

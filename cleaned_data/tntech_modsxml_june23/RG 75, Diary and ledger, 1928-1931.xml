@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG 75, Diary and ledger, 1928-1931</identifier>
+   <titleInfo>
+      <title>Myrtis Leonard Conry Ledger and Diary, 1928-1931</title>
+   </titleInfo>
+   <abstract>"Farm and Campus 1921" is handwritten on cover. The diary and accounts ledger gives a brief look at the daily life of Myrtis and Joseph (Joe) Conry and their two young children in the late 1920's and 1930's Cookeville Tennessee. Written by Myrtis, the diary begins in March of 1928 and shares stories about what is happening in the Cookeville area and at T.P.I (Tennessee Polytechnic Institute, now Tennessee Technological University) and in the world. In her writings she mentions the cost of the T.P.I. President's house, the Presidential election and the Tennessee's Governor's race of 1928, the burial of Cookeville Mayor Jere Whitson, the Vandy vs UT game of 1928, the books she is reading, the memorial service of Chief Justice of the Supreme Court and former President William Howard Taft in 1930, the first speech to the American people by Benito Mussolini in January 1931, the first world broadcast of Pope Pius XI of Rome in February 1931 and many other local and world stories. The ledger portion of the book gives a brief look at what goods and services cost during this time period. There is also a brief family history of the Leonard family on page 270 of the ledger.</abstract>
+   <name>
+      <namePart>Conry, Myrtis Leonard</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1928-1931</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Diaries</topic>
+   </subject>
+   <subject>
+      <topic>Account books</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Polytechnic Institute</topic>
+   </subject>
+   <subject>
+      <topic>Farms</topic>
+   </subject>
+   <subject>
+      <topic>Politics and government</topic>
+   </subject>
+   <subject>
+      <topic>Funeral service</topic>
+   </subject>
+   <subject>
+      <topic>Memorial service</topic>
+   </subject>
+   <subject>
+      <topic>Family histories</topic>
+   </subject>
+   <subject>
+      <topic>Weddings</topic>
+   </subject>
+   <subject>
+      <topic>Rites and ceremonies</topic>
+   </subject>
+   <subject>
+      <topic>Communicable diseases</topic>
+   </subject>
+   <subject>
+      <topic>Holidays</topic>
+   </subject>
+   <subject>
+      <topic>Great Depression</topic>
+   </subject>
+   <subject>
+      <topic>Religion</topic>
+   </subject>
+   <subject>
+      <topic>Prohibition</topic>
+   </subject>
+   <subject>
+      <topic>clubs (associations)</topic>
+   </subject>
+   <subject>
+      <topic>Sports</topic>
+   </subject>
+   <subject>
+      <topic>Parties </topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_06aedd65-0411-44ac-8eb3-b4fde4c74979/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_06aedd65-0411-44ac-8eb3-b4fde4c74979?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 75, Diary and ledger, 1928-1931</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
+</mods>

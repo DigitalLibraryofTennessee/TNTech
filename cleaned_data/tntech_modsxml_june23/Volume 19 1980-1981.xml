@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">Volume 19 1980-1981</identifier>
+   <titleInfo>
+      <title>Tech Times, 1980-1981</title>
+   </titleInfo>
+   <abstract>Tech Times is a newsletter that shares information about events and happenings on Tennessee Tech campus. It has a faculty and staff edition and in later years, a student edition too. Tech Times changed the format of its publication on May 1, 1981 (No. 22). The termination of the Master's Degree in History was proposed in this volume.</abstract>
+   <name>
+      <namePart>Tennessee Technological University. Office of Communications and Marketing</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1980-1981</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Schedules, School</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges--Faculty--Retirement</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges--Faculty--Employment</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges--Faculty--Awards</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges--Faculty--Research</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges--Faculty--Biography</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges--Faculty--Selection and appointment</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges--Faculty--Publishing</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges--Faculty--Scholarships, fellowships, etc.</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges--Professional staff</topic>
+   </subject>
+   <subject>
+      <topic>Budget</topic>
+   </subject>
+   <subject>
+      <topic>Committees</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges -- Food service</topic>
+   </subject>
+   <subject>
+      <topic>American Association of University Professors. Tennessee Technological University Chapter</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Higher Education Commission</topic>
+   </subject>
+   <subject>
+      <topic>Lassiter, Roy</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee. Board of Regents</topic>
+   </subject>
+   <subject>
+      <topic>Alexander, Lamar, 1940-</topic>
+   </subject>
+   <subject>
+      <topic>Garten, Edward D.</topic>
+   </subject>
+   <subject>
+      <topic>Academic libraries</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University. Appalachian Center for Craft</topic>
+   </subject>
+   <subject>
+      <topic>Nicks, Roy S. </topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_5e0d97e1-ed36-4868-b1a1-48ec95680b13/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_5e0d97e1-ed36-4868-b1a1-48ec95680b13?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 52, Office of Communications and Marketing records.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Tennessee Technological University</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
+</mods>

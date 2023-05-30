@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">2023-0012</identifier>
+   <titleInfo>
+      <title>Wade Storie Parachute Club album</title>
+   </titleInfo>
+   <abstract>These photographs were created by Wade Storie when he attended Tennessee Tech University's Parachute Club events at the Upper Cumberland Regional Airport during the years 1974-1976.</abstract>
+   <name>
+      <namePart>Storie, Wade</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>circa 1975</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>College students</topic>
+   </subject>
+   <subject>
+      <topic>Upper Cumberland Regional Airport (Sparta, Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Skydiving</topic>
+   </subject>
+   <subject>
+      <geographic>Sparta (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/SO_52546132-5144-45e1-9314-40a13f7241aa/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/SO_52546132-5144-45e1-9314-40a13f7241aa?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>2023-0012 Wade Storie Parachute Club album, negatives.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Storie, Wade</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
+</mods>

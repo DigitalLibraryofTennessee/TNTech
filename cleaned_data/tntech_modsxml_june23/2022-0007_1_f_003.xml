@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">2022-0007_1_f_003</identifier>
+   <titleInfo>
+      <title>Joe Conry, 1946</title>
+   </titleInfo>
+   <abstract>Photograph recto: Joe Conry portrait. Photograph verso: "Joseph E. Conry, 1946" (handwritten).</abstract>
+   <originInfo>
+      <dateCreated>1946</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Portrait photography</topic>
+   </subject>
+   <subject>
+      <topic>Occupational portraits</topic>
+   </subject>
+   <subject>
+      <topic>Conry, Joe (Joseph), -1959</topic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/SO_78e37007-9496-4859-9391-6059c22c6d85/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/SO_78e37007-9496-4859-9391-6059c22c6d85?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 1.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
+</mods>

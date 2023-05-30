@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">2022-0007_1_f_005</identifier>
+   <titleInfo>
+      <title>Cleveland Highschool football, 1916</title>
+   </titleInfo>
+   <abstract>Postcard recto: Cleveland Highschool football team; Postcard verso: Postmarked Dec. 8, 1916, 4 PM, Cleveland, Tenn., 1 cent U.S. Postage stamp, "Score, Opponents 18, Team 63, Miss Myrtis Leonard, Lewisburg, Tenn, R.3".</abstract>
+   <originInfo>
+      <dateCreated>1916</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>High school athletes</topic>
+   </subject>
+   <subject>
+      <topic>Postcards</topic>
+   </subject>
+   <subject>
+      <topic>School sports</topic>
+   </subject>
+   <subject>
+      <topic>Male athletes</topic>
+   </subject>
+   <subject>
+      <topic>Football players</topic>
+   </subject>
+   <subject>
+      <topic>Postage stamps</topic>
+   </subject>
+   <subject>
+      <topic>Postmarks </topic>
+   </subject>
+   <subject>
+      <geographic>Cleveland (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/SO_998a494c-4a4f-4b4f-982d-00d1a3105f50/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_998a494c-4a4f-4b4f-982d-00d1a3105f50?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 1.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
+</mods>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">V_2015_Spring</identifier>
+   <titleInfo>
+      <title>Vision Spring 2015</title>
+   </titleInfo>
+   <abstract>Tennessee Tech's magazine.</abstract>
+   <name>
+      <namePart>Tennessee Technological University. Office of Communications and Marketing</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Clemons, Laura</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Schabert, Rob</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>2015</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Periodicals</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Polytechnic Institute</topic>
+   </subject>
+   <subject>
+      <topic>Early, Thomas Alva, 1881-1939</topic>
+   </subject>
+   <subject>
+      <topic>Smith, Quintin Miller</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University. College of Education</topic>
+   </subject>
+   <subject>
+      <topic>Universities and colleges--Centennial celebrations, etc.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Tech University. School of Human Ecology</topic>
+   </subject>
+   <subject>
+      <topic>Johnson, Mancil</topic>
+   </subject>
+   <subject>
+      <topic>Glass blowing and working</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University. Appalachian Center for Craft</topic>
+   </subject>
+   <subject>
+      <topic>Golden Eagle Marching Band (Tennessee Technological University)</topic>
+   </subject>
+   <subject>
+      <topic>Legends</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University. Derryberry Hall</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee--Monteagle</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University. Oakley Hall </topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_8331837d-da22-4833-a46b-cff8a7b7367d/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_8331837d-da22-4833-a46b-cff8a7b7367d?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 52, Office of Communications and Marketing records.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Tennessee Technological University</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
+</mods>

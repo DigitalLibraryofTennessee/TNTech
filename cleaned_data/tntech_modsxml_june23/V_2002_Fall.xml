@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">V_2002_Fall</identifier>
+   <titleInfo>
+      <title>Visions Fall 2002</title>
+   </titleInfo>
+   <abstract>Tennessee Tech's magazine.</abstract>
+   <name>
+      <namePart>Tennessee Technological University. Office of Communications and Marketing</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Manske, Gina</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Duncan, Tracey</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>2002</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Periodicals</topic>
+   </subject>
+   <subject>
+      <topic>Kemp, Homer D.</topic>
+   </subject>
+   <subject>
+      <topic>Dickinson, W. Calvin</topic>
+   </subject>
+   <subject>
+      <topic>Birdwell, Michael E., 1957-</topic>
+   </subject>
+   <subject>
+      <topic>Gore, Al, 1948-</topic>
+   </subject>
+   <subject>
+      <topic>Budget--United States--States</topic>
+   </subject>
+   <subject>
+      <topic>Military engineering</topic>
+   </subject>
+   <subject>
+      <topic>Horticulture</topic>
+   </subject>
+   <subject>
+      <topic>Automobiles, Racing</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University. Golden Eagles (Men’s basketball team)</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University. Hooper Eblen Center</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University. Bell Hall</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University Alumni Association</topic>
+   </subject>
+   <subject>
+      <topic>Homecoming</topic>
+   </subject>
+   <subject>
+      <topic>Stonecipher, Harry C., 1936- </topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_47b102d1-9a99-45c8-919c-44d22132bbad/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_47b102d1-9a99-45c8-919c-44d22132bbad?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 52, Office of Communications and Marketing records.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Tennessee Technological University</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
+</mods>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG172_F1</identifier>
+   <titleInfo>
+      <title>Frances Byrne scrapbook and school papers folder 1</title>
+   </titleInfo>
+   <abstract>Ada (Ida) Frances (Francis) Byrne was born July 29, 1913 in Granville, Tennessee. She died in Cookeville, Tennessee in her home on Cherry Street at 21 years in September of 1934.  She married Joel C. Hensley on January 16, 1933. She is buried in City Cemetery. She played women's basketball for Baxter Seminary and attended the school.  She was a member of the Polyhymnian Literary Society, Debate Club, and the Home-Ec Club. She graduated from Jackson County Central High School in 1932. Her parents were John Byrne (1886-1955) and Hattie Louanne Tittle Byrne (1887-1996). Her siblings include Willie Franklyn Byrne Curtis (1910–1994), Marye Lee Byrne Jennings (1915–1980), Floy Byrne Wooten (1917–2001), and Anna Sue (Ann) Byrne Haile (1921-2001).
+
+Papers include candy wrappers, school papers, debates, newspaper clippings, visiting cards, a ring size chart, papers relating to high school basketball, and programs for events at Tennessee Tech, Baxter Seminary, the Strand Theatre, and other Upper Cumberland Schools. Papers also include numerous letters regarding high school gossip and romance. There are classmate photographs. The scrapbook uses paper from a yearbook from Manhattan, Kansas. There is a story regarding mumps and body. Many papers discuss boys and dating and some clippings and writing reflect body image issues. In her school papers she has numerous writings and debates, one in particular reflecting her feelings that Harriet Beecher Stowe's Uncle Tom's Cabin "over idealizes the negro in making him noble in character than the white people themselves" and that she exaggerated the plight of slaves to induce southern sympathies. There is a story about a male friend drinking and a woman who did not appreciate his drunkenness. </abstract>
+   <name>
+      <namePart>Byrne, Frances (Ada Frances Byrne Hensley), 1913-1934</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1922-1933</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Letters</topic>
+   </subject>
+   <subject>
+      <topic>High school students</topic>
+   </subject>
+   <subject>
+      <topic>Autobiographies</topic>
+   </subject>
+   <subject>
+      <topic>Report writing</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_d53d091c-ca36-4708-af4a-80ef30c910a3/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_d53d091c-ca36-4708-af4a-80ef30c910a3?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 172 Frances Byrne scrapbook and school paper, folder 1. </title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
