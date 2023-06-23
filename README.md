@@ -1,5 +1,5 @@
 # TNTech
-Data and Transform from Tennessee Tech for initial DPLA ingest in September 2021
+Data and Transform from Tennessee Tech for DPLA ingests.
 
 Because Preservica's OAI-PMH service was not accessible, we decided to simply transform a CSV from TN Tech into MODS.
 
