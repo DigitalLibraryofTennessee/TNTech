@@ -5,7 +5,9 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">PS_38_0011_0117</identifier>
-   <abstract>Various unidentified campus buildings.</abstract>
+   <titleInfo>
+      <title>Various unidentified campus buildings</title>
+   </titleInfo>
    <originInfo>
       <dateCreated>1968-08-12</dateCreated>
    </originInfo>
