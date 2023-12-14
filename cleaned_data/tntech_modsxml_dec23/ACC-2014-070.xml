@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">ACC-2014-070</identifier>
+   <titleInfo>
+      <title>Beppie Trowell scrapbook</title>
+   </titleInfo>
+   <abstract>Beppie Trowell was a resident of Columbia, South Carolina in the 1930s. Her scrapbook reveals her particular fondness of poetry, mostly containing clippings from the “Poetry Corner” section of The Columbia Record, along with those from other publications. Her often wistful-toned selections give expression to a romantic at heart. Other clippings and printed items reflect her interest in Christian ethics, local events, and persons of interest. She assembled a few clippings and other printed matter in regards to Charles A. (Augustus) Lindbergh, perhaps in roundabout interest, as his wife, Anne Spencer Morrow, was herself a well-known writer and poet. Included, as well, are personally-received printed items and letters, but none too revealing of her. Rather, she is modestly and enchantingly revealed through sentiments penned by others, which she chose to keep.</abstract>
+   <originInfo>
+      <dateCreated>1920-1939</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Trowell, Beppie</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1920-1939</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Poetry</topic>
+   </subject>
+   <subject>
+      <topic>Scrapbook journaling</topic>
+   </subject>
+   <subject>
+      <topic>Newspapers</topic>
+   </subject>
+   <subject>
+      <topic>Scrapbooks</topic>
+   </subject>
+   <subject>
+      <topic>clippings (information artifacts)</topic>
+   </subject>
+   <subject>
+      <topic>Letters</topic>
+   </subject>
+   <subject>
+      <topic>Teenage girls</topic>
+   </subject>
+   <subject>
+      <topic>Self-esteem in adolescence</topic>
+   </subject>
+   <subject>
+      <topic>Dating (Social customs)</topic>
+   </subject>
+   <subject>
+      <topic>Bible study</topic>
+   </subject>
+   <subject>
+      <topic>Lindbergh, Charles A. (Charles Augustus), 1902-1974</topic>
+   </subject>
+   <subject>
+      <geographic>Columbia (S.C.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Richland County (S.C.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_322f3e09-9615-4928-8378-2b7c4d940547/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_322f3e09-9615-4928-8378-2b7c4d940547?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>ACC 2014-070 Beppie Trowell scrapbook.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">PS_38_0007_0001</identifier>
+   <titleInfo>
+      <title>Professor in Biology Building looking out of window at end of hall</title>
+   </titleInfo>
+   <abstract>In 1960, Bartoo Hall housed classes in biology primarily. The building was erected in 1916 as a dormitory for men called West Hall and was remodeled and expanded into a fireproof structure in 1955. In 1962 the building was named in memory of Dorr R. Bartoo, Head of the Department of Biology of Tennessee Tech, 1929-43.</abstract>
+   <originInfo>
+      <dateCreated>1969-01-29</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Tennessee Technological University. Photo Services</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Tennessee Technological University. Photo Services</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1969-01-29</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Tennessee Technological University. Bartoo Hall</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_b2b1a811-a23c-4189-aebf-ef791ca9e0da/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_b2b1a811-a23c-4189-aebf-ef791ca9e0da?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 112 Photo Services photographs, Box 38, Folder 7.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Tennessee Technological University. Photo Services</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

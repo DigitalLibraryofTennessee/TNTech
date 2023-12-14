@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">19760914-15_037_0131_0003</identifier>
+   <titleInfo>
+      <title>Bruner Hall; University Center; Coliseum (Hooper Eblen Center)</title>
+   </titleInfo>
+   <abstract>Various unidentified campus buildings.</abstract>
+   <originInfo>
+      <dateCreated>1976-09-14-1976-09-15</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Tennessee Technological University. Photo Services</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Tennessee Technological University. Photo Services</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1976-09-14-1976-09-15</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Tennessee Technological University. Roaden University Center</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University. Hooper Eblen Center</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University. Bruner Hall</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_661c702a-6770-4cb4-bf95-20c665ee972b/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_661c702a-6770-4cb4-bf95-20c665ee972b?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 112 Photo Services photographs, Box 37, Folder 131.</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <name>
+      <namePart>Tennessee Technological University. Photo Services</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
