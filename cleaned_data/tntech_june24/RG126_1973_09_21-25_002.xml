@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG126_1973_09_21-25_002</identifier>
+   <titleInfo>
+      <title>Award presentation</title>
+   </titleInfo>
+   <abstract>Two adult males hold a plaque that reads: With appreciation to Don (illegible) general chairman appreciation day 9-22-1973 Cumberland County Chamber of Commerce.</abstract>
+   <originInfo>
+      <dateCreated>1973-09</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Dispatch Publishing Company</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1973-09</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Putnam County (Tenn.)--Newspapers.</topic>
+   </subject>
+   <subject>
+      <topic>Award presentations</topic>
+   </subject>
+   <subject>
+      <geographic>Upper Cumberland Region (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_435d27da-71f7-4fc6-9c2c-e31dcde7cc6d/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_435d27da-71f7-4fc6-9c2c-e31dcde7cc6d?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 126 Dispatch negatives</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm>
+   </language>
+   <name>
+      <namePart>Dispatch Publishing Company</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

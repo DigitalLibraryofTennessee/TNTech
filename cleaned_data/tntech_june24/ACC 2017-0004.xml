@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">ACC 2017-0004</identifier>
+   <titleInfo>
+      <title>J. H. Watts diary</title>
+   </titleInfo>
+   <abstract>J.H. Watts, Sr. was born in Granville, Tennessee on November 11, 1848. He died on December 16, 1918. He was buried in the Cookeville City Cemetery. He was single, never married but adopted a son James H. Watts, Jr. The son he adopted was his own illegitimate child. He was a professor for many years and later in Government Service. In 1882, he wrote this diary while teaching at Elmwood Institute in Elmwood, Tennessee. He wrote about his students, the weather, writing letters, and other daily events. He belonged to the Good Templar Masonic Lodge. He was the secretary of the Lodge at the time he wrote the diary.</abstract>
+   <originInfo>
+      <dateCreated>1882</dateCreated>
+   </originInfo>
+   <originInfo>
+      <dateCreated>1882</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Diaries</topic>
+   </subject>
+   <subject>
+      <topic>Elmwood Institute</topic>
+   </subject>
+   <subject>
+      <geographic>Upper Cumberland Region (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Smith County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_689b5b3d-8ffb-40a0-9cfd-99091fdfbb6c/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_689b5b3d-8ffb-40a0-9cfd-99091fdfbb6c?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>ACC 2017-0004 Diary of J.H. Watts</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

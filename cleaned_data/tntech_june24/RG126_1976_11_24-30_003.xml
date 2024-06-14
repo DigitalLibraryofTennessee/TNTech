@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG126_1976_11_24-30_003</identifier>
+   <titleInfo>
+      <title>Gas station exterior</title>
+   </titleInfo>
+   <abstract>Gas station with sign that reads: Self Service Regular 52.9.</abstract>
+   <originInfo>
+      <dateCreated>1976-11</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Dispatch Publishing Company</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1976-11</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Putnam County (Tenn.)--Newspapers.</topic>
+   </subject>
+   <subject>
+      <topic>Service stations</topic>
+   </subject>
+   <subject>
+      <topic>Signs and signboards</topic>
+   </subject>
+   <subject>
+      <geographic>Upper Cumberland Region (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_cf40abe3-3538-48df-8c0c-dc4f6ba3a9b8/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_cf40abe3-3538-48df-8c0c-dc4f6ba3a9b8?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 126 Dispatch negatives</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm>
+   </language>
+   <name>
+      <namePart>Dispatch Publishing Company</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

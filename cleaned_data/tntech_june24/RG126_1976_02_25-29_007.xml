@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG126_1976_02_25-29_007</identifier>
+   <titleInfo>
+      <title>Parked car</title>
+   </titleInfo>
+   <abstract>Located on Washington Avenue, Cookeville, Tenn. Car parked in parking lot below sign that reads: Glasspar Boats.</abstract>
+   <originInfo>
+      <dateCreated>1976-02</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Dispatch Publishing Company</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1976-02</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Putnam County (Tenn.)--Newspapers.</topic>
+   </subject>
+   <subject>
+      <topic>Automobiles</topic>
+   </subject>
+   <subject>
+      <topic>Signs and signboards</topic>
+   </subject>
+   <subject>
+      <topic>Parking lots</topic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_0c76bcb6-10a0-4cad-a572-030983e6b283/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_0c76bcb6-10a0-4cad-a572-030983e6b283?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 126 Dispatch negatives</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm>
+   </language>
+   <name>
+      <namePart>Dispatch Publishing Company</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

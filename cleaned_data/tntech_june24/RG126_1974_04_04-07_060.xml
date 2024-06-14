@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG126_1974_04_04-07_060</identifier>
+   <titleInfo>
+      <title>Tornado damage</title>
+   </titleInfo>
+   <abstract>The 1974 Black Wednesday Tornado Outbreak, also known as the 1974 Super Outbreak, remains one of the most devastating weather events in American history. On April 3 and 4, 1974, a staggering 148 tornadoes tore through 13 states, leaving a trail of destruction in their wake. In Putnam County, the tornadoes struck around 8 pm, carving a path approximately 32 miles long across White, Putnam, and Overton counties. 11 people died, and 51 residents were injured during the storm. The National Weather Service classified the tornado as an EF4, signifying extreme damage. Despite the devastation, the community demonstrated remarkable resilience. Emergency responders, volunteers, and neighbors worked tirelessly to provide aid and support. Over time, Putnam County rebuilt, implementing new safety measures and improved warning systems. The Super Outbreak of 1974 serves as a somber reminder of the unpredictable power of severe weather events and underscores the importance of disaster preparedness and community solidarity .</abstract>
+   <originInfo>
+      <dateCreated>1974-04</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Dispatch Publishing Company</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1974-04</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Putnam County (Tenn.)--Newspapers.</topic>
+   </subject>
+   <subject>
+      <topic>1974 Super Outbreak</topic>
+   </subject>
+   <subject>
+      <topic>Natural disasters </topic>
+   </subject>
+   <subject>
+      <topic>Tornado damage </topic>
+   </subject>
+   <subject>
+      <topic>Tornadoes -- Tennessee </topic>
+   </subject>
+   <subject>
+      <topic>Tornadoes -- Social aspects</topic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_ce2f4c84-b214-4a2e-b887-75b9493e6418/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_ce2f4c84-b214-4a2e-b887-75b9493e6418?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 126 Dispatch negatives</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm>
+   </language>
+   <name>
+      <namePart>Dispatch Publishing Company</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

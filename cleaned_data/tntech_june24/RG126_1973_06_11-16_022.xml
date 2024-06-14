@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG126_1973_06_11-16_022</identifier>
+   <titleInfo>
+      <title>Traffic accident</title>
+   </titleInfo>
+   <originInfo>
+      <dateCreated>1973-06</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Dispatch Publishing Company</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1973-06</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Putnam County (Tenn.)--Newspapers.</topic>
+   </subject>
+   <subject>
+      <topic>Traffic accidents</topic>
+   </subject>
+   <subject>
+      <topic>Automobiles--Collision damage</topic>
+   </subject>
+   <subject>
+      <geographic>Upper Cumberland Region (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_058dfd21-4f53-4b33-bf20-8e3b46b6dc41/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_058dfd21-4f53-4b33-bf20-8e3b46b6dc41?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 126 Dispatch negatives</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm>
+   </language>
+   <name>
+      <namePart>Dispatch Publishing Company</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

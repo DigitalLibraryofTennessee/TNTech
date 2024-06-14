@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">ACC 2024-0006</identifier>
+   <titleInfo>
+      <title>Doris Wiley Rollins T.P.I. Memories 1934-1938</title>
+   </titleInfo>
+   <abstract>Scrapbook belonging to Doris Wiley Rollins, student from 1934 through 1938. President, Y.W.C.A., ’36, ’37, ’38; President, Tennessee College Press Association, '37, ’38; Editor Tech Oracle, ’37, ’38; Delegate to National College Press Convention, ’37; English Club, ’36, ’37, ’38; Who’s Who Among Students in American Colleges and Universities, ’37, ’38. Miss Tech, ’38.</abstract>
+   <originInfo>
+      <dateCreated>1934</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Tennessee Technological University</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1934</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Women college students</topic>
+   </subject>
+   <subject>
+      <topic>Women editors</topic>
+   </subject>
+   <subject>
+      <topic>College newspapers</topic>
+   </subject>
+   <subject>
+      <topic>YWCA (United States)</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University. The Oracle</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University. Miss Tech</topic>
+   </subject>
+   <subject>
+      <geographic>Upper Cumberland Region (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_4406bcd8-20d8-4d5a-a666-caef14ba1f13/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_4406bcd8-20d8-4d5a-a666-caef14ba1f13?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>ACC 2024-0006 Doris Wiley Rollins papers</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <name>
+      <namePart>Tennessee Technological University</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
