@@ -4,7 +4,7 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">V_Winter_1996	</identifier>
+   <identifier type="local">V_Winter_1996</identifier>
    <titleInfo>
       <title>Visions Winter 1996</title>
    </titleInfo>
@@ -84,7 +84,7 @@
    </location>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
-         <title>RG 52 Office of Communications and Marketing, Visions.</title>
+         <title>RG 52 Office of Communications and Marketing, Visions</title>
       </titleInfo>
    </relatedItem>
    <recordInfo>

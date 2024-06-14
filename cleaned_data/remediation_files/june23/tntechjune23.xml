@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods>
 <identifier type="local">2023-0012</identifier>
 <titleInfo><title>Wade Storie Parachute Club album</title></titleInfo>
 <abstract>These photographs were created by Wade Storie when he attended Tennessee Tech University's Parachute Club events at the Upper Cumberland Regional Airport during the years 1974-1976.</abstract>
@@ -42,7 +43,7 @@
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>2023-0012 Wade Storie Parachute Club album, negatives.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>2023-0012 Wade Storie Parachute Club album, negatives</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Storie, Wade</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -138,7 +139,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 172 Frances Byrne scrapbook and school paper, folder 1. </title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 172 Frances Byrne scrapbook and school paper</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
@@ -187,7 +188,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 172 Frances Byrne scrapbook and school paper, folder 2. </title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 172 Frances Byrne scrapbook and school paper</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
@@ -236,7 +237,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 172 Frances Byrne scrapbook and school paper, folder 3. </title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 172 Frances Byrne scrapbook and school paper</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
@@ -285,7 +286,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 172 Frances Byrne scrapbook and school paper, folder 4. </title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 172 Frances Byrne scrapbook and school paper</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
@@ -332,7 +333,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Acc#2020-0003, Tech Garden Club collection.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Acc#2020-0003, Tech Garden Club collection</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tech Garden Club</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -379,7 +380,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Acc#2020-0003, Tech Garden Club collection.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Acc#2020-0003, Tech Garden Club collection</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tech Garden Club</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -426,7 +427,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Acc#2020-0003, Tech Garden Club collection.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Acc#2020-0003, Tech Garden Club collection</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tech Garden Club</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -473,7 +474,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Acc#2020-0003, Tech Garden Club collection.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Acc#2020-0003, Tech Garden Club collection</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tech Garden Club</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -520,7 +521,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Acc#2020-0003, Tech Garden Club collection.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Acc#2020-0003, Tech Garden Club collection</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tech Garden Club</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -567,7 +568,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Acc#2020-0003, Tech Garden Club collection.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Acc#2020-0003, Tech Garden Club collection</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tech Garden Club</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -614,7 +615,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Acc#2020-0003, Tech Garden Club collection.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Acc#2020-0003, Tech Garden Club collection</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tech Garden Club</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -661,7 +662,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Acc#2020-0003, Tech Garden Club collection.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Acc#2020-0003, Tech Garden Club collection</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tech Garden Club</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -708,7 +709,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Acc#2020-0003, Tech Garden Club collection.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Acc#2020-0003, Tech Garden Club collection</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tech Garden Club</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -755,7 +756,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>	ACC# 2022-0007 Conry Family Papers, Box 1, Folder 3.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -802,7 +803,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 1.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -849,7 +850,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 1.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -896,7 +897,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 7.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -943,7 +944,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>	ACC# 2022-0007 Conry Family Papers, Box 1, Folder 1.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -985,12 +986,12 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 <subject><geographic>Davidson County (Tenn.)</geographic></subject>
 <typeOfResource>text</typeOfResource>
 <location>
-    <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_6d43718e-9974-459e-9363-8733f2a08ba0/</url>
+<url usage="primary" access="object in context">https://tntech.access.preservica.com/?s=6d43718e-9974-459e-9363-8733f2a08ba0&amp;parenthierarchy=SO_f9565c1c-91b6-4c31-b9c7-ab4523805a1e</url>
 <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_6d43718e-9974-459e-9363-8733f2a08ba0?fallback-thumbnail=1</url>
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 5.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -1037,7 +1038,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 1.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -1084,7 +1085,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 1.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>White Studio, Cookeville (Tenn.)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -1131,7 +1132,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 1.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Stanfield, J. M.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -1178,7 +1179,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 1.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -1225,7 +1226,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 1.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>White Studio, New York</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -1272,7 +1273,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 2.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -1319,7 +1320,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 6.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -1366,7 +1367,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 1.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -1413,7 +1414,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 1.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -1460,7 +1461,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 1.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -1507,7 +1508,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 1.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -1554,7 +1555,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 1.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -1601,7 +1602,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 1.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Harding Studio</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -1648,7 +1649,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers, Box 1, Folder 1.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>ACC# 2022-0007 Conry Family Papers</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -1789,7 +1790,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -1836,7 +1837,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -1883,7 +1884,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -1930,7 +1931,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -1977,7 +1978,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -2024,7 +2025,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -2071,7 +2072,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -2118,7 +2119,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -2165,7 +2166,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -2212,7 +2213,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -2259,7 +2260,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -2306,7 +2307,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -2353,7 +2354,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -2400,7 +2401,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -2447,7 +2448,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -2494,7 +2495,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52 Office of Communications and Marketing, Visions</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -2823,7 +2824,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -2870,7 +2871,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -2917,7 +2918,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -2964,7 +2965,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3011,7 +3012,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3058,7 +3059,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3105,7 +3106,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3152,7 +3153,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3199,7 +3200,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3246,7 +3247,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3293,7 +3294,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3340,7 +3341,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3387,7 +3388,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3434,7 +3435,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3481,7 +3482,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3528,7 +3529,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3575,7 +3576,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3622,7 +3623,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3669,7 +3670,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3716,7 +3717,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3763,7 +3764,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3810,7 +3811,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3857,7 +3858,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3904,7 +3905,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3951,7 +3952,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -3998,7 +3999,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -4045,7 +4046,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -4092,12 +4093,12 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
 </mods><mods>
-<identifier type="local">V_2016_2017</identifier>
+<identifier type="local">V_2016_2017	</identifier>
 <titleInfo><title>Visions 2016-2017</title></titleInfo>
 <abstract>Tennessee Tech's magazine.</abstract>
 <name><namePart>Tennessee Technological University. Office of Communications and Marketing</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
@@ -4139,7 +4140,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -4186,7 +4187,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -4233,7 +4234,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -4280,7 +4281,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -4327,7 +4328,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -4374,7 +4375,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -4421,7 +4422,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -4468,7 +4469,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -4515,7 +4516,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -4562,7 +4563,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
@@ -4609,7 +4610,7 @@ Papers include candy wrappers, school papers, debates, newspaper clippings, visi
 </location>
 
 
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records.</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>RG 52, Office of Communications and Marketing records</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource></recordInfo>
 <name><namePart>Tennessee Technological University</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/ ">In Copyright</accessCondition>
