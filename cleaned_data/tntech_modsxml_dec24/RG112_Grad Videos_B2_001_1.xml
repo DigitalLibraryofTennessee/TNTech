@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG112_Grad Videos_B2_001_1</identifier>
+   <titleInfo>
+      <title>Commencement Video, December 16, 2006</title>
+   </titleInfo>
+   <originInfo>
+      <dateCreated>2006-12-16</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Tennessee Technological University. Photo Services</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Tennessee Technological University. Office of Communications and Marketing</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Tennessee Technological University. Photo Services</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>2006-12-16</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Nixon, Gary</topic>
+   </subject>
+   <subject>
+      <topic>Bell, Robert R. (Robert Roy), 1945-</topic>
+   </subject>
+   <subject>
+      <topic>Commencement ceremonies</topic>
+   </subject>
+   <subject>
+      <topic>commencements</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>moving image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_076829c9-7e0e-4169-9410-cc0623ead3e4/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_076829c9-7e0e-4169-9410-cc0623ead3e4?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 112 Photo Services photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <name>
+      <namePart>Tennessee Technological University. Photo Services</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

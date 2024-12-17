@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">Clay N. Hixson SSC The Bulletin Newsletter</identifier>
+   <titleInfo>
+      <title>The Bulletin</title>
+   </titleInfo>
+   <abstract>Newsletter for the Clay N. Hixson Student Success Center.</abstract>
+   <name>
+      <namePart>Tennessee Technological University</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Newsletters</topic>
+   </subject>
+   <subject>
+      <topic>Career development</topic>
+   </subject>
+   <subject>
+      <topic>Career advancement</topic>
+   </subject>
+   <subject>
+      <topic>Tutors and tutoring</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/SO_b2806734-d7bd-4352-a7f3-501c2e9148b5/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/SO_b2806734-d7bd-4352-a7f3-501c2e9148b5?fallback-thumbnail=1</url>
+   </location>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <name>
+      <namePart>Tennessee Technological University</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
