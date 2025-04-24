@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG182_B1_159-160</identifier>
+   <titleInfo>
+      <title>Joe Clark, signed</title>
+   </titleInfo>
+   <abstract>The recto depicts Joe Clark in his older years, playing a banjo, sitting in a chair, outside and leaning against a log-cabin. Recto is signed as follows: Always, Old Joe Clark (?). Verso reads: A Living Legend Old Joe Clark, star of film an T.V., Carnegie Hall concert artist and ece of the naturally famous Renfro Valley Barn Dance each Saturday night, is shown in the old log-cabin setting of Renfro Valley, the Saturday night Bar Dance is broadcast throughout America. Renfro Valley is located on U. S. 25 between Berea and Mt. Vernon (just of I 75) and only an hour's drive south of Lexington, Ky.</abstract>
+   <name>
+      <namePart>Allen, Danny</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Postcards</topic>
+   </subject>
+   <subject>
+      <topic>Postcard writing</topic>
+   </subject>
+   <subject>
+      <topic>Advertising postcards</topic>
+   </subject>
+   <subject>
+      <topic>Country music</topic>
+   </subject>
+   <subject>
+      <topic>Banjo</topic>
+   </subject>
+   <subject>
+      <topic>Autographs</topic>
+   </subject>
+   <subject>
+      <topic>Radio programs, Musical</topic>
+   </subject>
+   <subject>
+      <topic>Renfro Valley Barn Dance (Radio program)</topic>
+   </subject>
+   <subject>
+      <topic>Country musicians</topic>
+   </subject>
+   <subject>
+      <topic>Music industry</topic>
+   </subject>
+   <subject>
+      <topic>Performing artists</topic>
+   </subject>
+   <subject>
+      <topic>Musical instruments</topic>
+   </subject>
+   <subject>
+      <topic>Country music radio programs</topic>
+   </subject>
+   <subject>
+      <geographic>Lexington (Ky.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_0896411d-561b-43f1-9a3a-d6686c3c84eb/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_0896411d-561b-43f1-9a3a-d6686c3c84eb?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 182 Danny Allen Country Music Postcard collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG168_1990</identifier>
+   <titleInfo>
+      <title>Backdoor Playhouse Flyers, 1990-1999</title>
+   </titleInfo>
+   <abstract>This collection features playbills dating back to before Techs first season in 1955-1956. During this time, theatrical productions were primarily held in the Library Auditorium, located is what is now known as the Jere Whitson Building. The Tech Players, officially recognized as Techs Drama Club, staged their first production here. The Backdoor Playhouse was officially named during the 1970-1971 school year. The collection includes programs from the Tech Players, Alpha Psi Omega, and other theater events at the Backdoor Playhouse. It also features programs from productions in the Upper Cumberland region and those attended by Playhouse staff. The programs are organized by decade, with separate folders for National Shakespeare Company programs and Cookeville Arts Council Children's Theatre programs. An "unsorted" folder contains photographs, ticket stubs, theater and opera programs (including those by the Wesley Foundation and Black Student Organization), Tech Players award banquet records, and schedules. Note: Records from 1950s-1970s experienced water damage prior to arriving at the archives, so materials displayed exhibit mold and rust damage.</abstract>
+   <originInfo>
+      <dateCreated>1990-1999</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Tennessee Technological University. Backdoor Playhouse</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1990-1999</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Theater programs</topic>
+   </subject>
+   <subject>
+      <topic>Theatrical publishing</topic>
+   </subject>
+   <subject>
+      <topic>Playbills</topic>
+   </subject>
+   <subject>
+      <topic>Theatrical paraphernalia</topic>
+   </subject>
+   <subject>
+      <topic>Performing arts</topic>
+   </subject>
+   <subject>
+      <topic>College theater</topic>
+   </subject>
+   <subject>
+      <topic>College musicals</topic>
+   </subject>
+   <subject>
+      <topic>Musical theater</topic>
+   </subject>
+   <subject>
+      <topic>Tech Players (Tennessee Technological University)</topic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_e94a5feb-7736-4b47-ba2b-bc51908a6512/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_e94a5feb-7736-4b47-ba2b-bc51908a6512?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 168 Backdoor Playhouse records</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

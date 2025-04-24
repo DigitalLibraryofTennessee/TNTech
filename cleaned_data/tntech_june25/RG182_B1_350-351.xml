@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG182_B1_350-351</identifier>
+   <titleInfo>
+      <title>Jimmie Dolan</title>
+   </titleInfo>
+   <abstract>Recto shows Jimmie Dolan playing a guitar with his name written on the neck of it. Verso reads Thanks for listenin to the Crescent Jewelers' "Round-Up" time. Crescent Jewelers have a beautiful free gift for all of you. Just bring this card to any one of the four Crescent Stores. Your gift will be held for you only 30 days from the postmark on this card. No purchase necessary .. no obligation. Go to Crescent Jewelers nearest you! Oakland, 1100 Brak day Hayward, 532 First St. Walnut Creek, 1443 Broadway San Francisco (B. T. Brilliant Co.) 2622 Mission St. Get Your free gift--and keep my picture, too. Be with you again tonight, as every night over KYA. Sincerely, Jimmy Dolan. Addressed to Miss Leota Bennett.</abstract>
+   <originInfo>
+      <dateCreated>1952-12-11</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Allen, Danny</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1952-12-11</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Postcards</topic>
+   </subject>
+   <subject>
+      <topic>Postcard writing</topic>
+   </subject>
+   <subject>
+      <topic>Advertising postcards</topic>
+   </subject>
+   <subject>
+      <topic>Country music</topic>
+   </subject>
+   <subject>
+      <topic>Guitar</topic>
+   </subject>
+   <subject>
+      <topic>Guitarists</topic>
+   </subject>
+   <subject>
+      <topic>Dolan, Jimmie, 1916-1994</topic>
+   </subject>
+   <subject>
+      <topic>Country musicians</topic>
+   </subject>
+   <subject>
+      <topic>Performing artists</topic>
+   </subject>
+   <subject>
+      <topic>Entertainers</topic>
+   </subject>
+   <subject>
+      <topic>Music industry</topic>
+   </subject>
+   <subject>
+      <topic>Singers</topic>
+   </subject>
+   <subject>
+      <topic>Vocalists</topic>
+   </subject>
+   <subject>
+      <geographic>Oakland (Calif.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Alameda County (Calif.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_b133a572-bf4f-447d-9dbd-d0704402aca4/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_b133a572-bf4f-447d-9dbd-d0704402aca4?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 182 Danny Allen Country Music Postcard collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG182_B1_261-262</identifier>
+   <titleInfo>
+      <title>Happy Hank, signed</title>
+   </titleInfo>
+   <abstract>The recto for this postcards depicts Hapy Hank smiling, dressed in overalls. Recto reads: Keep tunin' in, everybody! Happy Hank. Verso reads: "Happy Hank" is featured on the Badger State Barn Dance over WTMJ, The Milwaukee Journal station.</abstract>
+   <name>
+      <namePart>Allen, Danny</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Postcards</topic>
+   </subject>
+   <subject>
+      <topic>Postcard writing</topic>
+   </subject>
+   <subject>
+      <topic>Advertising postcards</topic>
+   </subject>
+   <subject>
+      <topic>Country music</topic>
+   </subject>
+   <subject>
+      <topic>Autographs</topic>
+   </subject>
+   <subject>
+      <topic>WTMJ (Radio station : Milwaukee, Wis.)</topic>
+   </subject>
+   <subject>
+      <topic>Radio programs, Musical</topic>
+   </subject>
+   <subject>
+      <topic>Country music radio programs</topic>
+   </subject>
+   <subject>
+      <topic>Country musicians</topic>
+   </subject>
+   <subject>
+      <topic>Performing artists</topic>
+   </subject>
+   <subject>
+      <topic>Entertainers</topic>
+   </subject>
+   <subject>
+      <topic>Singers</topic>
+   </subject>
+   <subject>
+      <topic>Vocalists</topic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_2bc51844-ea76-42ee-8f5a-8a8856401d00/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_2bc51844-ea76-42ee-8f5a-8a8856401d00?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 182 Danny Allen Country Music Postcard collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

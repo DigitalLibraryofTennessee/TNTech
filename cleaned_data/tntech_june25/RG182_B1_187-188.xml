@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG182_B1_187-188</identifier>
+   <titleInfo>
+      <title>Bud Hobbs </title>
+   </titleInfo>
+   <abstract>The recto for this image shows of Bud Hobbs smiling and leaning on a guitar. Recto reads: Bud Hobbs M.G.M  Recording Star. Verso reads: Best Wishes Bud Hobbs Merry Xmas. Addressed to D. J. Nelson.</abstract>
+   <originInfo>
+      <dateCreated>1948-12-18</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Allen, Danny</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1948-12-18</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Postcards</topic>
+   </subject>
+   <subject>
+      <topic>Postcard writing</topic>
+   </subject>
+   <subject>
+      <topic>Advertising postcards</topic>
+   </subject>
+   <subject>
+      <topic>Country music</topic>
+   </subject>
+   <subject>
+      <topic>Musical instruments</topic>
+   </subject>
+   <subject>
+      <topic>Guitar</topic>
+   </subject>
+   <subject>
+      <topic>Guitarists</topic>
+   </subject>
+   <subject>
+      <topic>MGM Records</topic>
+   </subject>
+   <subject>
+      <topic>Country musicians</topic>
+   </subject>
+   <subject>
+      <topic>Performing artists</topic>
+   </subject>
+   <subject>
+      <topic>Entertainers</topic>
+   </subject>
+   <subject>
+      <topic>Singers</topic>
+   </subject>
+   <subject>
+      <topic>Music industry</topic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_d603716e-141a-4740-b7ed-e11658980213/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_d603716e-141a-4740-b7ed-e11658980213?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 182 Danny Allen Country Music Postcard collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

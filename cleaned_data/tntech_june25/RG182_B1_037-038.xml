@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG182_B1_037-038</identifier>
+   <titleInfo>
+      <title>Jack Dalton with a horse and microphone </title>
+   </titleInfo>
+   <abstract>In the recto, this post card shows Jack Dalton with a guitar on the left of the card and a horse named "Prince" on the right of the card. Verso reads: Hello There Radio Friends ! I hope you like this new Colorphoto of me and my horse "Prince." Many thanks for your swell cards and letters. Sincerly, Jack Dalton, "Radio's Original Singing Cowboy" WBZ--Boston.</abstract>
+   <name>
+      <namePart>Allen, Danny</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Postcards</topic>
+   </subject>
+   <subject>
+      <topic>Postcard writing</topic>
+   </subject>
+   <subject>
+      <topic>Advertising postcards</topic>
+   </subject>
+   <subject>
+      <topic>Country music</topic>
+   </subject>
+   <subject>
+      <topic>Guitar</topic>
+   </subject>
+   <subject>
+      <topic>Radio programs, Musical</topic>
+   </subject>
+   <subject>
+      <topic>Vocalists</topic>
+   </subject>
+   <subject>
+      <topic>Horses</topic>
+   </subject>
+   <subject>
+      <topic>Singers</topic>
+   </subject>
+   <subject>
+      <topic>Radio programs, Musical</topic>
+   </subject>
+   <subject>
+      <topic>Country music radio programs</topic>
+   </subject>
+   <subject>
+      <topic>Country musicians</topic>
+   </subject>
+   <subject>
+      <topic>Performing artists</topic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_3b712f54-454a-41c5-96a8-cff1f5f718f5/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_3b712f54-454a-41c5-96a8-cff1f5f718f5?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 182 Danny Allen Country Music Postcard collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

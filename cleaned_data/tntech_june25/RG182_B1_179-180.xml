@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG182_B1_179-180</identifier>
+   <titleInfo>
+      <title>A man riding a horse</title>
+   </titleInfo>
+   <abstract>Recto is signed and displays a man holding a guitar on top of a horse. Recto reads: (signed text). Verso reads: Alice Linsenhardt.</abstract>
+   <originInfo>
+      <dateCreated>1939-08-16</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Allen, Danny</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1939-08-16</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Postcards</topic>
+   </subject>
+   <subject>
+      <topic>Postcard writing</topic>
+   </subject>
+   <subject>
+      <topic>Advertising postcards</topic>
+   </subject>
+   <subject>
+      <topic>Country music</topic>
+   </subject>
+   <subject>
+      <topic>Vocalists</topic>
+   </subject>
+   <subject>
+      <topic>Guitar</topic>
+   </subject>
+   <subject>
+      <topic>Horses</topic>
+   </subject>
+   <subject>
+      <topic>Saddlery</topic>
+   </subject>
+   <subject>
+      <topic>Country musicians</topic>
+   </subject>
+   <subject>
+      <topic>Performing artists</topic>
+   </subject>
+   <subject>
+      <topic>Entertainers</topic>
+   </subject>
+   <subject>
+      <topic>Guitarists</topic>
+   </subject>
+   <subject>
+      <topic>Singers</topic>
+   </subject>
+   <subject>
+      <geographic>Russellville (Mo.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Cole County (Mo.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_d597acac-8a54-400e-9fb5-6201590de220/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_d597acac-8a54-400e-9fb5-6201590de220?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 182 Danny Allen Country Music Postcard collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

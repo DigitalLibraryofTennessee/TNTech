@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">ACC2025-0001</identifier>
+   <titleInfo>
+      <title>2025-0001 Dr. Tony Baker Graphic Novel Class comics</title>
+   </titleInfo>
+   <abstract>Students taking Dr. Tony Baker's Fall 2024 Graphic Novel class (ENGL 4650) created Archive Comics Projects by researching primary source documents in Tech's Archives and Special Collections. Students wrote comic scripts and used their artistic skills to compose fiction and nonfiction comics. The student cartoonists used a variety of visual styles to tell a wide range of local, archived-based stories. These stories were digitized and shared in an online exhibit. The archives only holds the digital versions. 
+
+In previous Graphic Novel classes, students worked with Kim Winkle's Art 2320 students to illustrate comics. Their work is in published books at the University Archives under Collab-O-Comix.</abstract>
+   <originInfo>
+      <dateCreated>2024</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Baker, Anthony</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Atkinson, Megan (Megan Atkinson)</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Eisenstein, Laramie</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Stackhouse, Gavin H.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Hinson, Laila</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Thompson, Andrew</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Bobo, Sanannah J.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Fox, Bryce (Jonathan)</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>2024</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Osbourne, Kelsey</topic>
+   </subject>
+   <subject>
+      <topic>Price, Brandon</topic>
+   </subject>
+   <subject>
+      <topic>Shepherd, Bryce</topic>
+   </subject>
+   <subject>
+      <topic>Rogers, Noah</topic>
+   </subject>
+   <subject>
+      <topic>Alpha Delta Pi Sorority. Epsilon Psi Chapter (Tennessee Technological University)</topic>
+   </subject>
+   <subject>
+      <topic>Hurst Barnes, Myrtle, 1877-1952</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Technological University. Archives and Special Collections</topic>
+   </subject>
+   <subject>
+      <topic>Cosmouse (Mouse)</topic>
+   </subject>
+   <subject>
+      <topic>Comics (Graphic works)</topic>
+   </subject>
+   <subject>
+      <topic>sororities</topic>
+   </subject>
+   <subject>
+      <topic>Murder</topic>
+   </subject>
+   <subject>
+      <topic>Folklore</topic>
+   </subject>
+   <subject>
+      <topic>Theft</topic>
+   </subject>
+   <subject>
+      <topic>Love-letters</topic>
+   </subject>
+   <subject>
+      <topic>Evel Eagle (Mascot)</topic>
+   </subject>
+   <subject>
+      <topic>Shinny Ninny (Harvey)</topic>
+   </subject>
+   <subject>
+      <topic>Folk music</topic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/SO_bafcff4b-644f-412a-bc35-6c093a7a1088/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_bafcff4b-644f-412a-bc35-6c093a7a1088?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>ACC 2025-0001 Dr. Tony Baker Graphic Novel Class comics</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

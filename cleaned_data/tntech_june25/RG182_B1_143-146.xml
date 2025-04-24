@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG182_B1_143-146</identifier>
+   <titleInfo>
+      <title>The Renfro Valley Lodge</title>
+   </titleInfo>
+   <abstract>There are two copies of this picture and the recto depicts The Renfro Valley Lodge with multiple cars in front of it. Verso reads: The Renfro Valley Lodge - This building occupies the site of  the original roadside tavern in the old Renfro Valley settlement. When excavating for the present structure a number of old Spanish coins were found. The Lodge houses a restaurant, with four dining rooms, the Souvenir Shop, the Cabin Rental Office and the Renfro Valley post Office. On U.S. 25, Renfro Valley, Kentucky.</abstract>
+   <name>
+      <namePart>Allen, Danny</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Postcards</topic>
+   </subject>
+   <subject>
+      <topic>Postcard writing</topic>
+   </subject>
+   <subject>
+      <topic>Advertising postcards</topic>
+   </subject>
+   <subject>
+      <topic>Country music</topic>
+   </subject>
+   <subject>
+      <topic>Buildings</topic>
+   </subject>
+   <subject>
+      <topic>Cars</topic>
+   </subject>
+   <subject>
+      <topic>Motor lodges</topic>
+   </subject>
+   <subject>
+      <topic>Antiques</topic>
+   </subject>
+   <subject>
+      <topic>Collectibles</topic>
+   </subject>
+   <subject>
+      <topic>Memorabilia</topic>
+   </subject>
+   <subject>
+      <topic>Country musicians</topic>
+   </subject>
+   <subject>
+      <topic>Music industry</topic>
+   </subject>
+   <subject>
+      <topic>Musical landmarks</topic>
+   </subject>
+   <subject>
+      <geographic>Renfro Valley (Ky.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Rockcastle County (Ky.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_f192d23f-6005-425f-8d95-e774c75a5406/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_f192d23f-6005-425f-8d95-e774c75a5406?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 182 Danny Allen Country Music Postcard collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

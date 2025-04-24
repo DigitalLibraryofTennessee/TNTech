@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG182_B1_121-122</identifier>
+   <titleInfo>
+      <title>The Baker Brothers </title>
+   </titleInfo>
+   <abstract>In the recto, the Baker Brothers stand side by side on a stage with a microphone in between them and each of them holding a guitar. Both of these gentlemen are holding their guitars with their right hand holding the base and their left hand holding the neck. Verso reads: Bob and Jesse, stars of Film, TV, Radio, and the National Famous Renfro Valley Barn Dance each Saturday night. The oldest act appearing on the Barn Dance. The Big Barn is located at beautiful Renfro Valley, Ky.</abstract>
+   <name>
+      <namePart>Allen, Danny</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Postcards</topic>
+   </subject>
+   <subject>
+      <topic>Postcard writing</topic>
+   </subject>
+   <subject>
+      <topic>Advertising postcards</topic>
+   </subject>
+   <subject>
+      <topic>Country music</topic>
+   </subject>
+   <subject>
+      <topic>Guitar</topic>
+   </subject>
+   <subject>
+      <topic>Guitarists</topic>
+   </subject>
+   <subject>
+      <topic>Musical instruments</topic>
+   </subject>
+   <subject>
+      <topic>Radio programs, Musical</topic>
+   </subject>
+   <subject>
+      <topic>Renfro Valley Barn Dance (Radio program)</topic>
+   </subject>
+   <subject>
+      <topic>Country musicians</topic>
+   </subject>
+   <subject>
+      <topic>Country music groups</topic>
+   </subject>
+   <subject>
+      <topic>Country music radio programs</topic>
+   </subject>
+   <subject>
+      <topic>Singers</topic>
+   </subject>
+   <subject>
+      <geographic>Renfro Valley (Ky.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Rockcastle County (Ky.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_5fc90946-c1a1-4d5c-aaf5-e28b4209497e/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_5fc90946-c1a1-4d5c-aaf5-e28b4209497e?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 182 Danny Allen Country Music Postcard collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

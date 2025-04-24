@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG182_B1_101-102</identifier>
+   <titleInfo>
+      <title>The Renfro Valley Barn Dance </title>
+   </titleInfo>
+   <abstract>The recto depicts three women holding a different instrument per person, a woman on the left holding a cello, a person on the right holding a guitar, and a person holding a banjo in the middle between the others. They are all in a barn in front of a group of people sitting. Verso reads: The Renfro Valley Barn Dance is not really a dance, but a stage and radio show held each Saturday night in The Big Barn in Renfro Valley. Since its first broadcast back in 1939 WHAS, WLW, and over NBC, CBS, and Mutual Radio Networks. More than three million visitors, coming from each of the 49 states and 7 foreign countries, have paid admission to see Renfro Valley Folks put on the only radio program of its kind presented in a real bar by the actual residents of the surrounding community. Located on U.S. 25 in Renfro Valley, Kentucky. Mom, Aunt Leah, and I Leah played here on my first trip. We were going to Florida. Saw this show.</abstract>
+   <name>
+      <namePart>Allen, Danny</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Postcards</topic>
+   </subject>
+   <subject>
+      <topic>Postcard writing</topic>
+   </subject>
+   <subject>
+      <topic>Advertising postcards</topic>
+   </subject>
+   <subject>
+      <topic>Country music</topic>
+   </subject>
+   <subject>
+      <topic>Country music radio programs</topic>
+   </subject>
+   <subject>
+      <topic>Radio programs, Musical</topic>
+   </subject>
+   <subject>
+      <topic>Guitar</topic>
+   </subject>
+   <subject>
+      <topic>Banjo</topic>
+   </subject>
+   <subject>
+      <topic>Cello</topic>
+   </subject>
+   <subject>
+      <topic>Violin</topic>
+   </subject>
+   <subject>
+      <topic>Renfro Valley Barn Dance (Radio program)</topic>
+   </subject>
+   <subject>
+      <topic>Country music groups</topic>
+   </subject>
+   <subject>
+      <topic>Country musicians</topic>
+   </subject>
+   <subject>
+      <geographic>Renfro Valley (Ky.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Rockcastle County (Ky.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_b8c999e2-2586-4edb-9992-520b4a01c36b/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_b8c999e2-2586-4edb-9992-520b4a01c36b?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 182 Danny Allen Country Music Postcard collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

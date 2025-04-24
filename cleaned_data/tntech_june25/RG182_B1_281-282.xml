@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG182_B1_281-282</identifier>
+   <titleInfo>
+      <title>"Red River Dave" McEnery Sale</title>
+   </titleInfo>
+   <abstract>The recto depicts "Red River Dave" sitting and playing a guitar. Recto reads: "Red River Dave" McEnery. Entertainer, radio star and successful composer of more than 100 cowboy melodies. Well known to millions of listeners over WEAF, WOR, WMCA, etc. Plays a  Gretsch "Synchromatic" Guitar and won't se anything but La Tosca Strings. Watch for him in your daily radio program and hear cowboy music at its best. Verso reads: Available now! First Post-War Model. Gretch 'Synchromatic' Guitar. Prompt shipment is assured on your orders for this beautiful new professional guitar! Built in the favored super-auditorium size; full arched body construction; steel reinforced neck; individual machines; superb tone and fin playing action. No. Px 5674-Gretsch "Synchromatic" Guitar complete with De Armond Electric Pick-Up and deluxe veneer shell, plush lined case. Each---$ 151.50. (Without puck-up, $124.00) Regular Dealer Discount Applies The Red. Gretsch MFG. Co. Musical Instrument Makes Since 1883.</abstract>
+   <name>
+      <namePart>Allen, Danny</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Postcards</topic>
+   </subject>
+   <subject>
+      <topic>Postcard writing</topic>
+   </subject>
+   <subject>
+      <topic>Advertising postcards</topic>
+   </subject>
+   <subject>
+      <topic>Country music</topic>
+   </subject>
+   <subject>
+      <topic>Guitar</topic>
+   </subject>
+   <subject>
+      <topic>Guitarists</topic>
+   </subject>
+   <subject>
+      <topic>WEAF (Radio station : New York, N.Y)</topic>
+   </subject>
+   <subject>
+      <topic>WOR (Radio station : New York, N.Y.)</topic>
+   </subject>
+   <subject>
+      <topic>WMCA (Radio station : New York, N.Y.)</topic>
+   </subject>
+   <subject>
+      <topic>Radio programs, Musical</topic>
+   </subject>
+   <subject>
+      <topic>Country music radio programs</topic>
+   </subject>
+   <subject>
+      <topic>Country musicians</topic>
+   </subject>
+   <subject>
+      <topic>Red River Dave, 1914-2002</topic>
+   </subject>
+   <subject>
+      <geographic>Brooklyn (New York, N.Y.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Kings County (New York, N.Y.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_026b627a-efc4-4e51-bc7b-dab4ea718317/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_026b627a-efc4-4e51-bc7b-dab4ea718317?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 182 Danny Allen Country Music Postcard collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

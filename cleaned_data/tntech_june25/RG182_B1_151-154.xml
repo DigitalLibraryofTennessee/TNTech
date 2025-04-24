@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG182_B1_151-154</identifier>
+   <titleInfo>
+      <title>The Renfro Valley Getherin'</title>
+   </titleInfo>
+   <abstract>This particular image has two copies; the recto shows men and women of the CBS morning broadcast some sitting and some standing in front of the Pioneer museum. Verso reads: The Renfro Valley Getherin' The choir and musicians for this nationally-known CBS Sunday morning broadcast originating in Renfro Valley, Ky., grouped in front of the Pioneer Museum and reading from left to right: Seated - Roy Davidson; Susan, lily May and Rosie (the Coon Creek Girls); Flossie Thomas and Jerry Behrens. Standing - Slim Miller; Ray Sosby; Claude Sweet; Ruel Thomas; John Lair; "Miss Ruth"; Robert Thompson; Gleen Pennington and Dick Dickenson. Renfro Valley, Ky., on U. S. 25, is also the home of he Saturday Night Barn Dance.</abstract>
+   <name>
+      <namePart>Allen, Danny</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Postcards</topic>
+   </subject>
+   <subject>
+      <topic>Postcard writing</topic>
+   </subject>
+   <subject>
+      <topic>Advertising postcards</topic>
+   </subject>
+   <subject>
+      <topic>Country music</topic>
+   </subject>
+   <subject>
+      <topic>CBS Radio Network</topic>
+   </subject>
+   <subject>
+      <topic>Radio programs, Musical</topic>
+   </subject>
+   <subject>
+      <topic>Country musicians</topic>
+   </subject>
+   <subject>
+      <topic>Performing artists</topic>
+   </subject>
+   <subject>
+      <topic>Entertainers</topic>
+   </subject>
+   <subject>
+      <topic>Folk music</topic>
+   </subject>
+   <subject>
+      <topic>Music industry</topic>
+   </subject>
+   <subject>
+      <topic>Country music radio programs</topic>
+   </subject>
+   <subject>
+      <topic>Musical landmarks</topic>
+   </subject>
+   <subject>
+      <geographic>Renfro Valley (Ky.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_11826120-6fad-451a-b55a-2691efc965fd/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_11826120-6fad-451a-b55a-2691efc965fd?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 182 Danny Allen Country Music Postcard collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

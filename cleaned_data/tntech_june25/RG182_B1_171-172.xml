@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG182_B1_171-172</identifier>
+   <titleInfo>
+      <title>Three Renfro Valley Pals</title>
+   </titleInfo>
+   <abstract>This image shows Barbara Lair with a leash in both hands one holding a pony named Little Boy Blue, and a dog named Mr. Chips. Recto reads: Three Renfro Valley Pals, Renfro Valley, Ky. - 87-D-5. Verso reads: Barbara Lair, with Little Boy Blue and Mr. Chips, in front of the Lair Stable. Little Boy Blue has one more than 100 Blue Ribbons and Trophies for his little mistress and is considered one of the best Shetland ponies showing today.</abstract>
+   <name>
+      <namePart>Allen, Danny</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Postcards</topic>
+   </subject>
+   <subject>
+      <topic>Postcard writing</topic>
+   </subject>
+   <subject>
+      <topic>Advertising postcards</topic>
+   </subject>
+   <subject>
+      <topic>Country music</topic>
+   </subject>
+   <subject>
+      <topic>Buildings</topic>
+   </subject>
+   <subject>
+      <topic>Horses</topic>
+   </subject>
+   <subject>
+      <topic>Dogs</topic>
+   </subject>
+   <subject>
+      <topic>Ponies</topic>
+   </subject>
+   <subject>
+      <topic>Horse shows</topic>
+   </subject>
+   <subject>
+      <topic>Award winners</topic>
+   </subject>
+   <subject>
+      <topic>Stables</topic>
+   </subject>
+   <subject>
+      <topic>Country musicians</topic>
+   </subject>
+   <subject>
+      <topic>Memorabilia</topic>
+   </subject>
+   <subject>
+      <geographic>Renfro Valley (Ky.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_a53d0f73-16ca-4137-80a4-7562062106ae/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_a53d0f73-16ca-4137-80a4-7562062106ae?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 182 Danny Allen Country Music Postcard collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

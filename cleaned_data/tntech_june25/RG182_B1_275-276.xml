@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG182_B1_275-276</identifier>
+   <titleInfo>
+      <title>"Red River Dave" McEnery</title>
+   </titleInfo>
+   <abstract>The recto depicts "Red River Dave" sitting and playing a guitar. Recto reads: "Red River Dave" McEnery and his faithful Gretsch synchromatic guitar. Star of radio, stage and screen, and favorite cowboy artist of millions of listeners over WOAI (BC) and WOAI-TV. Be sure to see him in niversal-International's Western Featurettes, recent releases being "Echo Ranch" and "Hidden Valley Days". Dave's a successful song writer, too, with scores of top-favorite cowboy and hill-Billy songs now being released on MGM Records. If you ask "Red River Dave" about guitars he'll tell you, straight off that with him it's Gretsch Synchromatic exclusively, and has been for years. As for strings, Dave says you can't beat Gretsch La Tosca Brand for tone and durability.</abstract>
+   <name>
+      <namePart>Allen, Danny</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Postcards</topic>
+   </subject>
+   <subject>
+      <topic>Postcard writing</topic>
+   </subject>
+   <subject>
+      <topic>Advertising postcards</topic>
+   </subject>
+   <subject>
+      <topic>Country music</topic>
+   </subject>
+   <subject>
+      <topic>MGM Records</topic>
+   </subject>
+   <subject>
+      <topic>Guitarists</topic>
+   </subject>
+   <subject>
+      <topic>Red River Dave, 1914-2002</topic>
+   </subject>
+   <subject>
+      <topic>Radio programs, Musical</topic>
+   </subject>
+   <subject>
+      <topic>Country music radio programs</topic>
+   </subject>
+   <subject>
+      <topic>Country musicians</topic>
+   </subject>
+   <subject>
+      <topic>Performing artists</topic>
+   </subject>
+   <subject>
+      <topic>Entertainers</topic>
+   </subject>
+   <subject>
+      <topic>Country and western music</topic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_52d0d0d7-396d-4e15-9f4e-4ba7c001bda0/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_52d0d0d7-396d-4e15-9f4e-4ba7c001bda0?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 182 Danny Allen Country Music Postcard collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

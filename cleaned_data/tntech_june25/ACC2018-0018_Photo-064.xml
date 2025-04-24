@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">ACC2018-0018_Photo-064</identifier>
+   <titleInfo>
+      <title>Robert G. Whitfield Photograph Album, Photo-064</title>
+   </titleInfo>
+   <abstract>Pier No. 4 and Tower. From a photograph album by Robert G. Whitfield documents the work of the Nashville Bridge Company on bridges in the Gainsboro and Lebanon areas from 1926 to 1929. The majority of the black and white photographs depict the construction of the Austin Peay Bridge in Jackson County, Tennessee. Other images show the construction of a bridge on the Cumberland River in Lebanon. The collection also includes photographs of camp life during the construction process, featuring the workers involved. Additionally, the album contains photos taken by Whitfield of various other bridges, including those in Gainesboro, Lebanon, Sparta, Martin, Elkton, Halls, and Historic Double Bridges. While many photos focus on the bridge construction, several capture the workers and surrounding areas.</abstract>
+   <originInfo>
+      <dateCreated>1926-11</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Whitfield, Robert G.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1926-11</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Bridges--Design and construction</topic>
+   </subject>
+   <subject>
+      <topic>Bridges--Foundations and piers</topic>
+   </subject>
+   <subject>
+      <geographic>Gainesboro (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Jackson County (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_ee18d0bc-84d2-4a6a-8624-f4b35a7072c7/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_ee18d0bc-84d2-4a6a-8624-f4b35a7072c7?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>ACC 2018-0018 Robert G. Whitfield Photograph Album</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

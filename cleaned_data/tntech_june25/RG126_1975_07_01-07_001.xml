@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RG126_1975_07_01-07_001</identifier>
+   <titleInfo>
+      <title>Group of people with Buck's College sign</title>
+   </titleInfo>
+   <abstract>Unidentified group of people with Buck's College sign that reads: Buck's College - Issac Buck let his family to the area from Pennsylvania in 1820.  In 1849 he purchased land here and in 1852 he and his son, Jonathan Buck opened Andrew College, commonly called "Buck's College" at this spot.  It was the first known secondary school established in Putnam County.  It closed during the Civil War and never reopened.</abstract>
+   <originInfo>
+      <dateCreated>1975-07</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Dispatch. (Cookeville Tenn.) 1965-1994</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Dispatch Publishing Company</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1975-07</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Putnam County (Tenn.)--Newspapers</topic>
+   </subject>
+   <subject>
+      <topic>Secondary schools</topic>
+   </subject>
+   <subject>
+      <topic>Secondary education</topic>
+   </subject>
+   <subject>
+      <topic>High school education</topic>
+   </subject>
+   <subject>
+      <topic>Closed schools</topic>
+   </subject>
+   <subject>
+      <topic>Historical markers</topic>
+   </subject>
+   <subject>
+      <geographic>Upper Cumberland Region (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_561f97da-ad28-49e3-bf4d-2e7d141ffbe6/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_561f97da-ad28-49e3-bf4d-2e7d141ffbe6?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>RG 126 Dispatch negatives</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <name>
+      <namePart>Dispatch Publishing Company</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
