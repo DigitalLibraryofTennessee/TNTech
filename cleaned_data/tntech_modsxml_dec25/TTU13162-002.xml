@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">TTU13162-002</identifier>
+   <titleInfo>
+      <title>Bryan Symphony Orchestra Sponsors</title>
+   </titleInfo>
+   <abstract>The Bryan Symphony Orchestra began in 1963-1964 as a collaborative effort of the community-based non-profit Bryan Symphony Orchestra Association and the Tennessee Tech Department of Music and Art. The orchestra held performances in the Wattenbarger Auditorium on Tennessee Tech's campus. The orchestra is named after Charles Faulkner Bryan, the former chair of the music program at Tech. The orchestra drew audiences from surrounding Upper Cumberland counties in Tennessee. The Bryan Symphony Orchestra Association Board manages the orchestra and consists of both community and university representatives. Its advisory members are its music director, who is a member of the TTU faculty; its executive director, who reports directly to the board and is responsible for the BSO's daily operations; the president of TTU; the director of Putnam County Schools; and an orchestra representative from the TTU faculty. TTU is an important partner of the BSOA, providing in-kind support, including rehearsal and performance space, as well as the participation of the music director and faculty and student orchestra members. The orchestra is a manifestation of the Tech Community Symphony Guild. As of 2025, the orchestra is led by Tennessee Tech's Dan Allcott.
+
+Source: https://www.bryansymphony.org/history-and-mission</abstract>
+   <originInfo>
+      <dateCreated>2013-04-21</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Tennessee Technological University. Photo Services</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Tennessee Technological University. Photo Services</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>2013-04-21</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Symphonies</topic>
+   </subject>
+   <subject>
+      <topic>Symphony orchestras</topic>
+   </subject>
+   <subject>
+      <topic>Performing arts sponsorship</topic>
+   </subject>
+   <subject>
+      <topic>Music patronage</topic>
+   </subject>
+   <subject>
+      <topic>Bryan Symphony Orchestra</topic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_3574f80a-9659-46fc-b88f-aa5413daf290/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_3574f80a-9659-46fc-b88f-aa5413daf290?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Tennessee Technological University. Photo Services</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <name>
+      <namePart>Tennessee Technological University. Photo Services</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

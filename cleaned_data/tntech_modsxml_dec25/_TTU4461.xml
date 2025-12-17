@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">_TTU4461</identifier>
+   <titleInfo>
+      <title>Putnam Plastics BCM</title>
+   </titleInfo>
+   <abstract>Nursing students fitting a patient for a nasal cannula to deliver oxygen therapy. It is likely that the tubing for the nasal cannula was produced by Putnam County Plastics Molding.</abstract>
+   <originInfo>
+      <dateCreated>2013-04-15</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Tennessee Technological University. Photo Services</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Tennessee Technological University. Photo Services</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>2013-04-15</dateCreated>
+   </originInfo>
+   <subject>
+      <topic>Oxygen therapy--Equipment and supplies</topic>
+   </subject>
+   <subject>
+      <topic>Oxygen therapy</topic>
+   </subject>
+   <subject>
+      <topic>Nursing students</topic>
+   </subject>
+   <subject>
+      <topic>Respiratory therapy</topic>
+   </subject>
+   <subject>
+      <geographic>Putnam County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Cookeville (Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <location>
+      <url usage="primary" access="object in context">https://tntech.access.preservica.com/uncategorized/IO_26d121af-292f-4f46-b9b1-63f5c4ae1709/</url>
+      <url access="preview">https://tntech.access.preservica.com/download/thumbnail/IO_26d121af-292f-4f46-b9b1-63f5c4ae1709?fallback-thumbnail=1</url>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Tennessee Technological University. Photo Services</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource>Tennessee Technological University. Archives and Special Collections</recordContentSource>
+   </recordInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <name>
+      <namePart>Tennessee Technological University. Photo Services</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
