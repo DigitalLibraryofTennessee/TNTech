@@ -32,13 +32,9 @@
 {{if(isBlank(cells['dcterms.subject 10'].value), '', '<subject><topic>' + cells['dcterms.subject 10'].value + '</topic></subject>')}}
 {{if(isBlank(cells['dcterms.subject 11'].value), '', '<subject><topic>' + cells['dcterms.subject 11'].value + '</topic></subject>')}}
 {{if(isBlank(cells['dcterms.subject 12'].value), '', '<subject><topic>' + cells['dcterms.subject 12'].value + '</topic></subject>')}}
-{{if(isBlank(cells['dcterms.subject 13'].value), '', '<subject><topic>' + cells['dcterms.subject 13'].value + '</topic></subject>')}}
-{{if(isBlank(cells['dcterms.subject 14'].value), '', '<subject><topic>' + cells['dcterms.subject 14'].value + '</topic></subject>')}}
-{{if(isBlank(cells['dcterms.subject 15'].value), '', '<subject><topic>' + cells['dcterms.subject 15'].value + '</topic></subject>')}}
 {{if(isBlank(cells['dcterms.spatial 1'].value), '', '<subject><geographic>' + cells['dcterms.spatial 1'].value + '</geographic></subject>')}}
 {{if(isBlank(cells['dcterms.spatial 2'].value), '', '<subject><geographic>' + cells['dcterms.spatial 2'].value + '</geographic></subject>')}}
 {{if(isBlank(cells['dcterms.spatial 3'].value), '', '<subject><geographic>' + cells['dcterms.spatial 3'].value + '</geographic></subject>')}}
-{{if(isBlank(cells['dcterms.spatial 4'].value), '', '<subject><geographic>' + cells['dcterms.spatial 4'].value + '</geographic></subject>')}}
 {{if(isBlank(cells['dcterms.type'].value), '', '<typeOfResource>' + cells['dcterms.type'].value + '</typeOfResource>')}}
 <location>
 <url usage="primary" access="object in context">{{cells['URL'].value}}</url>
