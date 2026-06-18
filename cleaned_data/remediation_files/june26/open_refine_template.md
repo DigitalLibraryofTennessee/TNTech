@@ -18,7 +18,6 @@
 {{if(isBlank(cells["dcterms.description"].value),'', '<abstract>' + cells['dcterms.description'].value + '</abstract>')}}
 {{if(isBlank(cells['dcterms.date'].value), '', '<originInfo><dateCreated>' + cells['dcterms.date'].value + '</dateCreated></originInfo>')}}
 {{if(isBlank(cells['dcterms.creator'].value), '', '<name><namePart>' + cells['dcterms.creator'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>')}}
-{{if(isBlank(cells['dcterms.rightsHolder'].value), '', '<name><namePart>' + cells['dcterms.rightsHolder'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm></role></name>')}}
 {{if(isBlank(cells['dcterms.date'].value), '', '<originInfo><dateCreated>' + cells['dcterms.date'].value + '</dateCreated></originInfo>'))}}
 {{if(isBlank(cells['dcterms.subject 1'].value), '', '<subject><topic>' + cells['dcterms.subject 1'].value + '</topic></subject>')}}
 {{if(isBlank(cells['dcterms.subject 2'].value), '', '<subject><topic>' + cells['dcterms.subject 2'].value + '</topic></subject>')}}
